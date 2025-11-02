@@ -1,0 +1,3322 @@
+Sample_ID,Blood Group,Anti_A,Anti_B,Anti_D,Genotype,Sickling,Solubility,Bands
+1,A+,1,0,1,AS,Few,Cloudy,A and S
+2,O+,0,0,1,AA,No,Clear,A
+3,A+,1,0,1,AS,Few,Cloudy,A and S
+4,O+,0,0,1,AA,No,Clear,A
+5,O+,0,0,1,AA,No,Clear,A
+6,O+,0,0,1,AA,No,Clear,A
+7,A+,1,0,1,AA,No,Clear,A
+8,O+,0,0,1,AA,No,Clear,A
+9,O+,0,0,1,AA,No,Clear,A
+10,AB+,1,1,1,AA,No,Clear,A
+11,B+,0,1,1,AS,Few,Cloudy,A and S
+12,A+,1,0,1,AA,No,Clear,A
+13,O+,0,0,1,AA,No,Clear,A
+14,O+,0,0,1,AA,No,Clear,A
+15,O+,0,0,1,AA,No,Clear,A
+16,B+,0,1,1,AA,No,Clear,A
+17,O+,0,0,1,AS,Few,Cloudy,A and S
+18,A+,1,0,1,AA,No,Clear,A
+19,O+,0,0,1,AA,No,Clear,A
+20,O+,0,0,1,AA,No,Clear,A
+21,O+,0,0,1,AA,No,Clear,A
+22,B+,0,1,1,AA,No,Clear,A
+23,AB+,1,1,1,AA,No,Clear,A
+24,O+,0,0,1,AA,No,Clear,A
+25,B+,0,1,1,AS,Few,Cloudy,A and S
+26,O+,0,0,1,AA,No,Clear,A
+27,A+,1,0,1,AA,No,Clear,A
+28,O-,0,0,0,AA,No,Clear,A
+29,A+,1,0,1,AA,No,Clear,A
+30,B+,0,1,1,AA,No,Clear,A
+31,O+,0,0,1,AA,No,Clear,A
+32,A+,1,0,1,AA,No,Clear,A
+33,A+,1,0,1,AA,No,Clear,A
+34,B+,0,1,1,AA,No,Clear,A
+35,O+,0,0,1,AS,Few,Cloudy,A and S
+36,A+,1,0,1,AA,No,Clear,A
+37,O+,0,0,1,AA,No,Clear,A
+38,B+,0,1,1,AC,No,Clear,A and C
+39,A+,1,0,1,AA,No,Clear,A
+40,B+,0,1,1,AS,Few,Cloudy,A and S
+41,A+,1,0,1,AA,No,Clear,A
+42,O+,0,0,1,AA,No,Clear,A
+43,O+,0,0,1,AS,Few,Cloudy,A and S
+44,O+,0,0,1,AA,No,Clear,A
+45,O+,0,0,1,AA,No,Clear,A
+46,O-,0,0,0,AA,No,Clear,A
+47,O+,0,0,1,AA,No,Clear,A
+48,O+,0,0,1,AA,No,Clear,A
+49,O+,0,0,1,AS,Few,Cloudy,A and S
+50,A+,1,0,1,CC,No,Clear,C
+51,B+,0,1,1,AS,Few,Cloudy,A and S
+52,B+,0,1,1,AA,No,Clear,A
+53,O+,0,0,1,AA,No,Clear,A
+54,B+,0,1,1,AA,No,Clear,A
+55,O+,0,0,1,AA,No,Clear,A
+56,O+,0,0,1,AA,No,Clear,A
+57,O+,0,0,1,AA,No,Clear,A
+58,O+,0,0,1,AA,No,Clear,A
+59,O+,0,0,1,AA,No,Clear,A
+60,O+,0,0,1,AA,No,Clear,A
+61,O+,0,0,1,AA,No,Clear,A
+62,A+,1,0,1,AA,No,Clear,A
+63,O+,0,0,1,AA,No,Clear,A
+64,B+,0,1,1,AA,No,Clear,A
+65,O+,0,0,1,AS,Few,Cloudy,A and S
+66,O-,0,0,0,AA,No,Clear,A
+67,A+,1,0,1,AA,No,Clear,A
+68,O+,0,0,1,AA,No,Clear,A
+69,A+,1,0,1,AA,No,Clear,A
+70,A+,1,0,1,AA,No,Clear,A
+71,O+,0,0,1,AA,No,Clear,A
+72,O+,0,0,1,AA,No,Clear,A
+73,O+,0,0,1,AA,No,Clear,A
+74,O+,0,0,1,AA,No,Clear,A
+75,O+,0,0,1,AA,No,Clear,A
+76,O+,0,0,1,AA,No,Clear,A
+77,O+,0,0,1,AA,No,Clear,A
+78,O+,0,0,1,AC,No,Clear,A and C
+79,B+,0,1,1,AA,No,Clear,A
+80,O+,0,0,1,AA,No,Clear,A
+81,O+,0,0,1,AA,No,Clear,A
+82,O+,0,0,1,AA,No,Clear,A
+83,O+,0,0,1,AA,No,Clear,A
+84,O+,0,0,1,SS,Yes,Cloudy,S
+85,O+,0,0,1,AA,No,Clear,A
+86,O+,0,0,1,AA,No,Clear,A
+87,O+,0,0,1,AA,No,Clear,A
+88,O+,0,0,1,AS,Few,Cloudy,A and S
+89,O+,0,0,1,AA,No,Clear,A
+90,O+,0,0,1,AA,No,Clear,A
+91,O+,0,0,1,AA,No,Clear,A
+92,O+,0,0,1,AS,Few,Cloudy,A and S
+93,O+,0,0,1,AA,No,Clear,A
+94,O+,0,0,1,AS,Few,Cloudy,A and S
+95,B+,0,1,1,AA,No,Clear,A
+96,O+,0,0,1,AA,No,Clear,A
+97,B+,0,1,1,AS,Few,Cloudy,A and S
+98,O+,0,0,1,AA,No,Clear,A
+99,AB+,1,1,1,AA,No,Clear,A
+100,O-,0,0,0,AA,No,Clear,A
+101,B+,0,1,1,AA,No,Clear,A
+102,A+,1,0,1,AA,No,Clear,A
+103,O+,0,0,1,AS,Few,Cloudy,A and S
+104,A+,1,0,1,AS,Few,Cloudy,A and S
+105,O+,0,0,1,AA,No,Clear,A
+106,A+,1,0,1,AA,No,Clear,A
+107,A+,1,0,1,AA,No,Clear,A
+108,O+,0,0,1,AA,No,Clear,A
+109,O+,0,0,1,AA,No,Clear,A
+110,B+,0,1,1,AA,No,Clear,A
+111,A-,1,0,0,AS,Few,Cloudy,A and S
+112,O+,0,0,1,AA,No,Clear,A
+113,B+,0,1,1,AA,No,Clear,A
+114,A+,1,0,1,AS,Few,Cloudy,A and S
+115,O+,0,0,1,AS,Few,Cloudy,A and S
+116,O+,0,0,1,AS,Few,Cloudy,A and S
+117,O+,0,0,1,AS,Few,Cloudy,A and S
+118,O+,0,0,1,AA,No,Clear,A
+119,O+,0,0,1,AA,No,Clear,A
+120,B+,0,1,1,AA,No,Clear,A
+121,O+,0,0,1,AA,No,Clear,A
+122,O-,0,0,0,AA,No,Clear,A
+123,O+,0,0,1,AA,No,Clear,A
+124,O+,0,0,1,AA,No,Clear,A
+125,O+,0,0,1,AC,No,Clear,A and C
+126,B+,0,1,1,AA,No,Clear,A
+127,O+,0,0,1,AA,No,Clear,A
+128,B+,0,1,1,AA,No,Clear,A
+129,B+,0,1,1,AA,No,Clear,A
+130,O+,0,0,1,AC,No,Clear,A and C
+131,A+,1,0,1,AA,No,Clear,A
+132,O+,0,0,1,AA,No,Clear,A
+133,A+,1,0,1,AA,No,Clear,A
+134,O+,0,0,1,AA,No,Clear,A
+135,O-,0,0,0,AA,No,Clear,A
+136,B+,0,1,1,AA,No,Clear,A
+137,B+,0,1,1,AA,No,Clear,A
+138,O+,0,0,1,AS,Few,Cloudy,A and S
+139,A+,1,0,1,AA,No,Clear,A
+140,O+,0,0,1,AC,No,Clear,A and C
+141,O+,0,0,1,AA,No,Clear,A
+142,O+,0,0,1,AC,No,Clear,A and C
+143,A+,1,0,1,AA,No,Clear,A
+144,A+,1,0,1,AA,No,Clear,A
+145,B+,0,1,1,AS,Few,Cloudy,A and S
+146,B+,0,1,1,AA,No,Clear,A
+147,O+,0,0,1,AA,No,Clear,A
+148,O+,0,0,1,AA,No,Clear,A
+149,O+,0,0,1,AA,No,Clear,A
+150,O+,0,0,1,AA,No,Clear,A
+151,O+,0,0,1,AS,Few,Cloudy,A and S
+152,O+,0,0,1,AA,No,Clear,A
+153,O+,0,0,1,AA,No,Clear,A
+154,O+,0,0,1,AA,No,Clear,A
+155,A+,1,0,1,AA,No,Clear,A
+156,O+,0,0,1,AA,No,Clear,A
+157,O+,0,0,1,AA,No,Clear,A
+158,O+,0,0,1,AA,No,Clear,A
+159,O+,0,0,1,AA,No,Clear,A
+160,A+,1,0,1,AS,Few,Cloudy,A and S
+161,O+,0,0,1,AA,No,Clear,A
+162,O+,0,0,1,AA,No,Clear,A
+163,B+,0,1,1,AA,No,Clear,A
+164,A-,1,0,0,AA,No,Clear,A
+165,B+,0,1,1,AA,No,Clear,A
+166,A+,1,0,1,AA,No,Clear,A
+167,O+,0,0,1,AA,No,Clear,A
+168,O+,0,0,1,AA,No,Clear,A
+169,AB+,1,1,1,AA,No,Clear,A
+170,O+,0,0,1,AA,No,Clear,A
+171,AB+,1,1,1,SS,Yes,Cloudy,S
+172,A+,1,0,1,AA,No,Clear,A
+173,O+,0,0,1,AA,No,Clear,A
+174,AB+,1,1,1,AC,No,Clear,A and C
+175,O+,0,0,1,AA,No,Clear,A
+176,AB-,1,1,0,AA,No,Clear,A
+177,O+,0,0,1,AA,No,Clear,A
+178,O+,0,0,1,AS,Few,Cloudy,A and S
+179,B+,0,1,1,AA,No,Clear,A
+180,O+,0,0,1,AA,No,Clear,A
+181,A+,1,0,1,AS,Few,Cloudy,A and S
+182,O+,0,0,1,AA,No,Clear,A
+183,O+,0,0,1,AA,No,Clear,A
+184,B+,0,1,1,AA,No,Clear,A
+185,B+,0,1,1,AA,No,Clear,A
+186,O+,0,0,1,AA,No,Clear,A
+187,O+,0,0,1,AA,No,Clear,A
+188,B+,0,1,1,AS,Few,Cloudy,A and S
+189,B+,0,1,1,AA,No,Clear,A
+190,B+,0,1,1,AS,Few,Cloudy,A and S
+191,O+,0,0,1,AA,No,Clear,A
+192,A+,1,0,1,AS,Few,Cloudy,A and S
+193,B+,0,1,1,AA,No,Clear,A
+194,B+,0,1,1,AS,Few,Cloudy,A and S
+195,B+,0,1,1,AS,Few,Cloudy,A and S
+196,O+,0,0,1,AA,No,Clear,A
+197,O+,0,0,1,AA,No,Clear,A
+198,O+,0,0,1,AA,No,Clear,A
+199,O+,0,0,1,AA,No,Clear,A
+200,B+,0,1,1,AA,No,Clear,A
+201,B+,0,1,1,AA,No,Clear,A
+202,B+,0,1,1,AA,No,Clear,A
+203,B+,0,1,1,AA,No,Clear,A
+204,O+,0,0,1,AA,No,Clear,A
+205,O+,0,0,1,AA,No,Clear,A
+206,O+,0,0,1,AC,No,Clear,A and C
+207,A+,1,0,1,AA,No,Clear,A
+208,A-,1,0,0,AA,No,Clear,A
+209,O+,0,0,1,AA,No,Clear,A
+210,O+,0,0,1,AS,Few,Cloudy,A and S
+211,O+,0,0,1,AA,No,Clear,A
+212,B-,0,1,0,AS,Few,Cloudy,A and S
+213,O+,0,0,1,AA,No,Clear,A
+214,B+,0,1,1,AA,No,Clear,A
+215,A+,1,0,1,AA,No,Clear,A
+216,B+,0,1,1,AA,No,Clear,A
+217,B+,0,1,1,AC,No,Clear,A and C
+218,O+,0,0,1,AS,Few,Cloudy,A and S
+219,O+,0,0,1,AA,No,Clear,A
+220,A+,1,0,1,AA,No,Clear,A
+221,O+,0,0,1,AA,No,Clear,A
+222,O+,0,0,1,AS,Few,Cloudy,A and S
+223,A+,1,0,1,AA,No,Clear,A
+224,O+,0,0,1,AS,Few,Cloudy,A and S
+225,B+,0,1,1,AA,No,Clear,A
+226,A+,1,0,1,AS,Few,Cloudy,A and S
+227,A+,1,0,1,AA,No,Clear,A
+228,B-,0,1,0,AS,Few,Cloudy,A and S
+229,O+,0,0,1,AA,No,Clear,A
+230,A+,1,0,1,AA,No,Clear,A
+231,O+,0,0,1,AA,No,Clear,A
+232,B+,0,1,1,AS,Few,Cloudy,A and S
+233,O+,0,0,1,AS,Few,Cloudy,A and S
+234,O+,0,0,1,AA,No,Clear,A
+235,O+,0,0,1,AA,No,Clear,A
+236,O+,0,0,1,AA,No,Clear,A
+237,O-,0,0,0,AA,No,Clear,A
+238,A+,1,0,1,AA,No,Clear,A
+239,A+,1,0,1,AC,No,Clear,A and C
+240,B+,0,1,1,AA,No,Clear,A
+241,O+,0,0,1,AS,Few,Cloudy,A and S
+242,O+,0,0,1,AS,Few,Cloudy,A and S
+243,B+,0,1,1,AA,No,Clear,A
+244,A+,1,0,1,AS,Few,Cloudy,A and S
+245,B+,0,1,1,AA,No,Clear,A
+246,O+,0,0,1,AS,Few,Cloudy,A and S
+247,O+,0,0,1,AS,Few,Cloudy,A and S
+248,A+,1,0,1,AA,No,Clear,A
+249,O+,0,0,1,AA,No,Clear,A
+250,O+,0,0,1,AA,No,Clear,A
+251,A+,1,0,1,AA,No,Clear,A
+252,O+,0,0,1,AS,Few,Cloudy,A and S
+253,O+,0,0,1,AC,No,Clear,A and C
+254,A+,1,0,1,AA,No,Clear,A
+255,O+,0,0,1,AS,Few,Cloudy,A and S
+256,O+,0,0,1,AA,No,Clear,A
+257,A-,1,0,0,AA,No,Clear,A
+258,A+,1,0,1,AA,No,Clear,A
+259,A+,1,0,1,AC,No,Clear,A and C
+260,B+,0,1,1,AS,Few,Cloudy,A and S
+261,O+,0,0,1,AA,No,Clear,A
+262,B+,0,1,1,AA,No,Clear,A
+263,O+,0,0,1,AA,No,Clear,A
+264,B+,0,1,1,AA,No,Clear,A
+265,B+,0,1,1,AS,Few,Cloudy,A and S
+266,O+,0,0,1,AA,No,Clear,A
+267,O+,0,0,1,AA,No,Clear,A
+268,B+,0,1,1,AA,No,Clear,A
+269,O-,0,0,0,AS,Few,Cloudy,A and S
+270,B+,0,1,1,AA,No,Clear,A
+271,O+,0,0,1,AA,No,Clear,A
+272,O+,0,0,1,AS,Few,Cloudy,A and S
+273,O+,0,0,1,AA,No,Clear,A
+274,B+,0,1,1,AA,No,Clear,A
+275,O+,0,0,1,AS,Few,Cloudy,A and S
+276,O+,0,0,1,AA,No,Clear,A
+277,O+,0,0,1,AS,Few,Cloudy,A and S
+278,O+,0,0,1,AA,No,Clear,A
+279,O+,0,0,1,AS,Few,Cloudy,A and S
+280,B+,0,1,1,AS,Few,Cloudy,A and S
+281,O+,0,0,1,AA,No,Clear,A
+282,O+,0,0,1,AC,No,Clear,A and C
+283,O+,0,0,1,AS,Few,Cloudy,A and S
+284,O+,0,0,1,AA,No,Clear,A
+285,A+,1,0,1,AA,No,Clear,A
+286,A+,1,0,1,AA,No,Clear,A
+287,O+,0,0,1,AA,No,Clear,A
+288,O+,0,0,1,AA,No,Clear,A
+289,O+,0,0,1,AA,No,Clear,A
+290,O+,0,0,1,AA,No,Clear,A
+291,O+,0,0,1,AS,Few,Cloudy,A and S
+292,O+,0,0,1,AS,Few,Cloudy,A and S
+293,O+,0,0,1,AA,No,Clear,A
+294,A+,1,0,1,AA,No,Clear,A
+295,O+,0,0,1,AA,No,Clear,A
+296,B+,0,1,1,AA,No,Clear,A
+297,O+,0,0,1,AA,No,Clear,A
+298,A+,1,0,1,AA,No,Clear,A
+299,O+,0,0,1,AS,Few,Cloudy,A and S
+300,O+,0,0,1,AA,No,Clear,A
+301,A+,1,0,1,AA,No,Clear,A
+302,O+,0,0,1,SC,Few,Cloudy,S and C
+303,O+,0,0,1,AS,Few,Cloudy,A and S
+304,O+,0,0,1,AS,Few,Cloudy,A and S
+305,B+,0,1,1,AC,No,Clear,A and C
+306,A+,1,0,1,AS,Few,Cloudy,A and S
+307,O+,0,0,1,AA,No,Clear,A
+308,O+,0,0,1,AA,No,Clear,A
+309,O+,0,0,1,AA,No,Clear,A
+310,A+,1,0,1,AS,Few,Cloudy,A and S
+311,AB+,1,1,1,AS,Few,Cloudy,A and S
+312,O+,0,0,1,AA,No,Clear,A
+313,O+,0,0,1,AA,No,Clear,A
+314,O+,0,0,1,AA,No,Clear,A
+315,O+,0,0,1,AC,No,Clear,A and C
+316,O+,0,0,1,AA,No,Clear,A
+317,B+,0,1,1,AA,No,Clear,A
+318,O+,0,0,1,AA,No,Clear,A
+319,O+,0,0,1,AA,No,Clear,A
+320,O+,0,0,1,AA,No,Clear,A
+321,O+,0,0,1,AA,No,Clear,A
+322,B+,0,1,1,AC,No,Clear,A and C
+323,B+,0,1,1,AA,No,Clear,A
+324,B+,0,1,1,AA,No,Clear,A
+325,O+,0,0,1,AA,No,Clear,A
+326,O-,0,0,0,AC,No,Clear,A and C
+327,B+,0,1,1,AA,No,Clear,A
+328,O+,0,0,1,AC,No,Clear,A and C
+329,O+,0,0,1,AA,No,Clear,A
+330,B+,0,1,1,AA,No,Clear,A
+331,A+,1,0,1,AA,No,Clear,A
+332,O+,0,0,1,AA,No,Clear,A
+333,O+,0,0,1,AS,Few,Cloudy,A and S
+334,O-,0,0,0,AS,Few,Cloudy,A and S
+335,A+,1,0,1,AA,No,Clear,A
+336,O+,0,0,1,AS,Few,Cloudy,A and S
+337,O+,0,0,1,AS,Few,Cloudy,A and S
+338,A+,1,0,1,AS,Few,Cloudy,A and S
+339,B+,0,1,1,AA,No,Clear,A
+340,O+,0,0,1,AA,No,Clear,A
+341,A+,1,0,1,AA,No,Clear,A
+342,O+,0,0,1,AA,No,Clear,A
+343,B+,0,1,1,AA,No,Clear,A
+344,A+,1,0,1,AA,No,Clear,A
+345,O+,0,0,1,AA,No,Clear,A
+346,A+,1,0,1,AA,No,Clear,A
+347,O+,0,0,1,AA,No,Clear,A
+348,A+,1,0,1,AA,No,Clear,A
+349,B+,0,1,1,AA,No,Clear,A
+350,O+,0,0,1,AA,No,Clear,A
+351,O+,0,0,1,AS,Few,Cloudy,A and S
+352,A+,1,0,1,AA,No,Clear,A
+353,O+,0,0,1,AA,No,Clear,A
+354,O+,0,0,1,AA,No,Clear,A
+355,B+,0,1,1,AA,No,Clear,A
+356,O+,0,0,1,AA,No,Clear,A
+357,A+,1,0,1,AA,No,Clear,A
+358,O+,0,0,1,AA,No,Clear,A
+359,O+,0,0,1,AA,No,Clear,A
+360,A+,1,0,1,AA,No,Clear,A
+361,A+,1,0,1,AA,No,Clear,A
+362,O+,0,0,1,AA,No,Clear,A
+363,A+,1,0,1,AA,No,Clear,A
+364,B+,0,1,1,AA,No,Clear,A
+365,B+,0,1,1,AA,No,Clear,A
+366,O+,0,0,1,AA,No,Clear,A
+367,O+,0,0,1,AA,No,Clear,A
+368,O+,0,0,1,AS,Few,Cloudy,A and S
+369,O+,0,0,1,AA,No,Clear,A
+370,B+,0,1,1,AA,No,Clear,A
+371,B+,0,1,1,AA,No,Clear,A
+372,O+,0,0,1,AS,Few,Cloudy,A and S
+373,A+,1,0,1,AA,No,Clear,A
+374,O+,0,0,1,AA,No,Clear,A
+375,O+,0,0,1,AA,No,Clear,A
+376,O+,0,0,1,AA,No,Clear,A
+377,O+,0,0,1,AC,No,Clear,A and C
+378,O+,0,0,1,AA,No,Clear,A
+379,A+,1,0,1,AA,No,Clear,A
+380,O+,0,0,1,AA,No,Clear,A
+381,O+,0,0,1,AA,No,Clear,A
+382,O+,0,0,1,AA,No,Clear,A
+383,O+,0,0,1,AC,No,Clear,A and C
+384,B+,0,1,1,AA,No,Clear,A
+385,A+,1,0,1,AS,Few,Cloudy,A and S
+386,O+,0,0,1,AS,Few,Cloudy,A and S
+387,O+,0,0,1,AA,No,Clear,A
+388,O+,0,0,1,AS,Few,Cloudy,A and S
+389,B+,0,1,1,AA,No,Clear,A
+390,O+,0,0,1,AA,No,Clear,A
+391,O+,0,0,1,AC,No,Clear,A and C
+392,O+,0,0,1,AS,Few,Cloudy,A and S
+393,O+,0,0,1,AS,Few,Cloudy,A and S
+394,O+,0,0,1,AA,No,Clear,A
+395,O+,0,0,1,AA,No,Clear,A
+396,O+,0,0,1,AA,No,Clear,A
+397,O+,0,0,1,AS,Few,Cloudy,A and S
+398,O+,0,0,1,AS,Few,Cloudy,A and S
+399,B+,0,1,1,AS,Few,Cloudy,A and S
+400,B+,0,1,1,AA,No,Clear,A
+401,A+,1,0,1,AA,No,Clear,A
+402,B+,0,1,1,AA,No,Clear,A
+403,B+,0,1,1,AA,No,Clear,A
+404,B+,0,1,1,AA,No,Clear,A
+405,O+,0,0,1,AA,No,Clear,A
+406,B+,0,1,1,AC,No,Clear,A and C
+407,A+,1,0,1,AA,No,Clear,A
+408,O+,0,0,1,AA,No,Clear,A
+409,O+,0,0,1,AA,No,Clear,A
+410,A+,1,0,1,AC,No,Clear,A and C
+411,B-,0,1,0,AS,Few,Cloudy,A and S
+412,A+,1,0,1,AA,No,Clear,A
+413,A+,1,0,1,AA,No,Clear,A
+414,O+,0,0,1,AS,Few,Cloudy,A and S
+415,O+,0,0,1,AA,No,Clear,A
+416,O+,0,0,1,AA,No,Clear,A
+417,A+,1,0,1,AA,No,Clear,A
+418,O-,0,0,0,AS,Few,Cloudy,A and S
+419,O-,0,0,0,AA,No,Clear,A
+420,O+,0,0,1,AA,No,Clear,A
+421,A+,1,0,1,SS,Yes,Cloudy,S
+422,A+,1,0,1,AA,No,Clear,A
+423,B+,0,1,1,AC,No,Clear,A and C
+424,AB+,1,1,1,AA,No,Clear,A
+425,O-,0,0,0,AA,No,Clear,A
+426,A+,1,0,1,AA,No,Clear,A
+427,B+,0,1,1,AA,No,Clear,A
+428,A+,1,0,1,AA,No,Clear,A
+429,A+,1,0,1,AA,No,Clear,A
+430,B+,0,1,1,AS,Few,Cloudy,A and S
+431,O-,0,0,0,AA,No,Clear,A
+432,O+,0,0,1,AA,No,Clear,A
+433,B+,0,1,1,AA,No,Clear,A
+434,O+,0,0,1,AA,No,Clear,A
+435,O+,0,0,1,AS,Few,Cloudy,A and S
+436,O-,0,0,0,AA,No,Clear,A
+437,O+,0,0,1,AS,Few,Cloudy,A and S
+438,O+,0,0,1,AA,No,Clear,A
+439,O+,0,0,1,AA,No,Clear,A
+440,A+,1,0,1,AA,No,Clear,A
+441,O+,0,0,1,AA,No,Clear,A
+442,O-,0,0,0,AA,No,Clear,A
+443,O+,0,0,1,AA,No,Clear,A
+444,A+,1,0,1,AA,No,Clear,A
+445,O+,0,0,1,AS,Few,Cloudy,A and S
+446,O+,0,0,1,AA,No,Clear,A
+447,A+,1,0,1,AS,Few,Cloudy,A and S
+448,A+,1,0,1,AA,No,Clear,A
+449,O+,0,0,1,AA,No,Clear,A
+450,O+,0,0,1,AA,No,Clear,A
+451,O+,0,0,1,AA,No,Clear,A
+452,O-,0,0,0,AA,No,Clear,A
+453,B+,0,1,1,AA,No,Clear,A
+454,O+,0,0,1,AA,No,Clear,A
+455,A+,1,0,1,AA,No,Clear,A
+456,B+,0,1,1,AA,No,Clear,A
+457,B+,0,1,1,AS,Few,Cloudy,A and S
+458,O+,0,0,1,AA,No,Clear,A
+459,B+,0,1,1,AA,No,Clear,A
+460,A+,1,0,1,AA,No,Clear,A
+461,O+,0,0,1,AA,No,Clear,A
+462,O+,0,0,1,AC,No,Clear,A and C
+463,A+,1,0,1,AS,Few,Cloudy,A and S
+464,O+,0,0,1,SS,Yes,Cloudy,S
+465,B+,0,1,1,AA,No,Clear,A
+466,B+,0,1,1,AA,No,Clear,A
+467,O+,0,0,1,AA,No,Clear,A
+468,O+,0,0,1,AS,Few,Cloudy,A and S
+469,O+,0,0,1,AA,No,Clear,A
+470,B+,0,1,1,AA,No,Clear,A
+471,B+,0,1,1,AS,Few,Cloudy,A and S
+472,A+,1,0,1,AA,No,Clear,A
+473,O-,0,0,0,AA,No,Clear,A
+474,B+,0,1,1,AA,No,Clear,A
+475,A+,1,0,1,AS,Few,Cloudy,A and S
+476,O+,0,0,1,AA,No,Clear,A
+477,B+,0,1,1,AA,No,Clear,A
+478,O+,0,0,1,AA,No,Clear,A
+479,O-,0,0,0,AA,No,Clear,A
+480,A-,1,0,0,AA,No,Clear,A
+481,B+,0,1,1,AS,Few,Cloudy,A and S
+482,O+,0,0,1,AA,No,Clear,A
+483,B+,0,1,1,AS,Few,Cloudy,A and S
+484,B+,0,1,1,AA,No,Clear,A
+485,O+,0,0,1,AA,No,Clear,A
+486,O+,0,0,1,AS,Few,Cloudy,A and S
+487,A+,1,0,1,AA,No,Clear,A
+488,A+,1,0,1,AA,No,Clear,A
+489,O+,0,0,1,AA,No,Clear,A
+490,O+,0,0,1,AS,Few,Cloudy,A and S
+491,O+,0,0,1,AA,No,Clear,A
+492,O+,0,0,1,AA,No,Clear,A
+493,O+,0,0,1,AC,No,Clear,A and C
+494,O+,0,0,1,AA,No,Clear,A
+495,A+,1,0,1,AS,Few,Cloudy,A and S
+496,B+,0,1,1,AA,No,Clear,A
+497,O+,0,0,1,AS,Few,Cloudy,A and S
+498,O+,0,0,1,AS,Few,Cloudy,A and S
+499,A+,1,0,1,AA,No,Clear,A
+500,A+,1,0,1,AS,Few,Cloudy,A and S
+501,O+,0,0,1,AA,No,Clear,A
+502,O+,0,0,1,AS,Few,Cloudy,A and S
+503,B+,0,1,1,AA,No,Clear,A
+504,O+,0,0,1,AA,No,Clear,A
+505,O+,0,0,1,AA,No,Clear,A
+506,A+,1,0,1,AA,No,Clear,A
+507,O+,0,0,1,AS,Few,Cloudy,A and S
+508,A+,1,0,1,AS,Few,Cloudy,A and S
+509,O-,0,0,0,AA,No,Clear,A
+510,A-,1,0,0,AC,No,Clear,A and C
+511,B+,0,1,1,AA,No,Clear,A
+512,A-,1,0,0,AC,No,Clear,A and C
+513,O+,0,0,1,AA,No,Clear,A
+514,O+,0,0,1,AA,No,Clear,A
+515,O+,0,0,1,AS,Few,Cloudy,A and S
+516,A+,1,0,1,AS,Few,Cloudy,A and S
+517,O+,0,0,1,AS,Few,Cloudy,A and S
+518,O+,0,0,1,AA,No,Clear,A
+519,O-,0,0,0,AA,No,Clear,A
+520,A+,1,0,1,AS,Few,Cloudy,A and S
+521,A+,1,0,1,AA,No,Clear,A
+522,O+,0,0,1,AA,No,Clear,A
+523,B+,0,1,1,AA,No,Clear,A
+524,O+,0,0,1,AA,No,Clear,A
+525,O+,0,0,1,AA,No,Clear,A
+526,A+,1,0,1,AS,Few,Cloudy,A and S
+527,O+,0,0,1,AA,No,Clear,A
+528,A+,1,0,1,AA,No,Clear,A
+529,O-,0,0,0,AA,No,Clear,A
+530,O+,0,0,1,AC,No,Clear,A and C
+531,O+,0,0,1,AA,No,Clear,A
+532,O+,0,0,1,AA,No,Clear,A
+533,B+,0,1,1,AS,Few,Cloudy,A and S
+534,B+,0,1,1,AS,Few,Cloudy,A and S
+535,O+,0,0,1,AA,No,Clear,A
+536,O+,0,0,1,AA,No,Clear,A
+537,B+,0,1,1,AS,Few,Cloudy,A and S
+538,B+,0,1,1,AA,No,Clear,A
+539,A+,1,0,1,AA,No,Clear,A
+540,B+,0,1,1,AS,Few,Cloudy,A and S
+541,O+,0,0,1,AA,No,Clear,A
+542,B+,0,1,1,AC,No,Clear,A and C
+543,B+,0,1,1,AS,Few,Cloudy,A and S
+544,O+,0,0,1,AS,Few,Cloudy,A and S
+545,O+,0,0,1,AA,No,Clear,A
+546,O+,0,0,1,AA,No,Clear,A
+547,O+,0,0,1,AA,No,Clear,A
+548,O+,0,0,1,AS,Few,Cloudy,A and S
+549,AB+,1,1,1,AA,No,Clear,A
+550,O+,0,0,1,AA,No,Clear,A
+551,O+,0,0,1,AA,No,Clear,A
+552,O+,0,0,1,AA,No,Clear,A
+553,B+,0,1,1,AS,Few,Cloudy,A and S
+554,O+,0,0,1,AA,No,Clear,A
+555,B+,0,1,1,AS,Few,Cloudy,A and S
+556,O+,0,0,1,AA,No,Clear,A
+557,B+,0,1,1,AS,Few,Cloudy,A and S
+558,B+,0,1,1,AS,Few,Cloudy,A and S
+559,O-,0,0,0,AA,No,Clear,A
+560,A+,1,0,1,AA,No,Clear,A
+561,B+,0,1,1,AA,No,Clear,A
+562,O+,0,0,1,AA,No,Clear,A
+563,O+,0,0,1,AC,No,Clear,A and C
+564,O+,0,0,1,AA,No,Clear,A
+565,O+,0,0,1,AA,No,Clear,A
+566,B+,0,1,1,AA,No,Clear,A
+567,O+,0,0,1,AA,No,Clear,A
+568,O+,0,0,1,AA,No,Clear,A
+569,O+,0,0,1,AA,No,Clear,A
+570,O+,0,0,1,AA,No,Clear,A
+571,B+,0,1,1,AS,Few,Cloudy,A and S
+572,O+,0,0,1,AA,No,Clear,A
+573,O+,0,0,1,AA,No,Clear,A
+574,O+,0,0,1,AA,No,Clear,A
+575,O+,0,0,1,AA,No,Clear,A
+576,O+,0,0,1,AA,No,Clear,A
+577,O+,0,0,1,AA,No,Clear,A
+578,O+,0,0,1,AA,No,Clear,A
+579,O-,0,0,0,AA,No,Clear,A
+580,B+,0,1,1,AA,No,Clear,A
+581,O+,0,0,1,AA,No,Clear,A
+582,B+,0,1,1,AC,No,Clear,A and C
+583,O+,0,0,1,AA,No,Clear,A
+584,B+,0,1,1,AA,No,Clear,A
+585,O+,0,0,1,AA,No,Clear,A
+586,O+,0,0,1,AA,No,Clear,A
+587,A+,1,0,1,AA,No,Clear,A
+588,B+,0,1,1,AS,Few,Cloudy,A and S
+589,B+,0,1,1,AA,No,Clear,A
+590,B+,0,1,1,AS,Few,Cloudy,A and S
+591,A+,1,0,1,AA,No,Clear,A
+592,A-,1,0,0,AS,Few,Cloudy,A and S
+593,O+,0,0,1,AS,Few,Cloudy,A and S
+594,A+,1,0,1,AA,No,Clear,A
+595,O+,0,0,1,AA,No,Clear,A
+596,O+,0,0,1,AA,No,Clear,A
+597,O+,0,0,1,AA,No,Clear,A
+598,B+,0,1,1,AA,No,Clear,A
+599,O+,0,0,1,AA,No,Clear,A
+600,O+,0,0,1,AA,No,Clear,A
+601,B+,0,1,1,AC,No,Clear,A and C
+602,A+,1,0,1,AA,No,Clear,A
+603,A+,1,0,1,AA,No,Clear,A
+604,O+,0,0,1,AS,Few,Cloudy,A and S
+605,A+,1,0,1,AA,No,Clear,A
+606,A+,1,0,1,AS,Few,Cloudy,A and S
+607,O+,0,0,1,AA,No,Clear,A
+608,O+,0,0,1,AS,Few,Cloudy,A and S
+609,B+,0,1,1,AS,Few,Cloudy,A and S
+610,O+,0,0,1,AA,No,Clear,A
+611,O+,0,0,1,AA,No,Clear,A
+612,B+,0,1,1,AA,No,Clear,A
+613,O+,0,0,1,AA,No,Clear,A
+614,A+,1,0,1,AA,No,Clear,A
+615,O+,0,0,1,AA,No,Clear,A
+616,O+,0,0,1,AA,No,Clear,A
+617,A+,1,0,1,AS,Few,Cloudy,A and S
+618,O+,0,0,1,AA,No,Clear,A
+619,B+,0,1,1,AS,Few,Cloudy,A and S
+620,B+,0,1,1,AA,No,Clear,A
+621,AB+,1,1,1,AA,No,Clear,A
+622,B+,0,1,1,SC,Few,Cloudy,S and C
+623,O+,0,0,1,AA,No,Clear,A
+624,O+,0,0,1,AS,Few,Cloudy,A and S
+625,B+,0,1,1,AA,No,Clear,A
+626,O+,0,0,1,AA,No,Clear,A
+627,O+,0,0,1,AS,Few,Cloudy,A and S
+628,O+,0,0,1,AS,Few,Cloudy,A and S
+629,O+,0,0,1,AA,No,Clear,A
+630,A+,1,0,1,AA,No,Clear,A
+631,O+,0,0,1,AA,No,Clear,A
+632,A+,1,0,1,AA,No,Clear,A
+633,O+,0,0,1,AA,No,Clear,A
+634,B+,0,1,1,AA,No,Clear,A
+635,B+,0,1,1,AA,No,Clear,A
+636,O+,0,0,1,AA,No,Clear,A
+637,O+,0,0,1,AA,No,Clear,A
+638,O+,0,0,1,AS,Few,Cloudy,A and S
+639,O+,0,0,1,AA,No,Clear,A
+640,O+,0,0,1,AA,No,Clear,A
+641,O+,0,0,1,AA,No,Clear,A
+642,A+,1,0,1,AS,Few,Cloudy,A and S
+643,O+,0,0,1,AA,No,Clear,A
+644,B+,0,1,1,AA,No,Clear,A
+645,O+,0,0,1,AA,No,Clear,A
+646,O+,0,0,1,AA,No,Clear,A
+647,O+,0,0,1,AA,No,Clear,A
+648,A+,1,0,1,AA,No,Clear,A
+649,B+,0,1,1,AC,No,Clear,A and C
+650,A+,1,0,1,AA,No,Clear,A
+651,A+,1,0,1,AA,No,Clear,A
+652,B+,0,1,1,AA,No,Clear,A
+653,B+,0,1,1,AA,No,Clear,A
+654,O+,0,0,1,AA,No,Clear,A
+655,O+,0,0,1,AA,No,Clear,A
+656,A+,1,0,1,AA,No,Clear,A
+657,O+,0,0,1,AA,No,Clear,A
+658,O+,0,0,1,AA,No,Clear,A
+659,O+,0,0,1,AA,No,Clear,A
+660,O+,0,0,1,AA,No,Clear,A
+661,O+,0,0,1,AA,No,Clear,A
+662,A+,1,0,1,AA,No,Clear,A
+663,O-,0,0,0,AA,No,Clear,A
+664,B+,0,1,1,AS,Few,Cloudy,A and S
+665,O-,0,0,0,AA,No,Clear,A
+666,O+,0,0,1,AA,No,Clear,A
+667,O+,0,0,1,AA,No,Clear,A
+668,O+,0,0,1,AS,Few,Cloudy,A and S
+669,AB+,1,1,1,AA,No,Clear,A
+670,A+,1,0,1,AA,No,Clear,A
+671,O+,0,0,1,AA,No,Clear,A
+672,O+,0,0,1,AA,No,Clear,A
+673,O+,0,0,1,AA,No,Clear,A
+674,O+,0,0,1,AS,Few,Cloudy,A and S
+675,B-,0,1,0,AA,No,Clear,A
+676,O+,0,0,1,AA,No,Clear,A
+677,B+,0,1,1,AA,No,Clear,A
+678,B+,0,1,1,AA,No,Clear,A
+679,O+,0,0,1,AA,No,Clear,A
+680,O+,0,0,1,AA,No,Clear,A
+681,O+,0,0,1,AA,No,Clear,A
+682,O+,0,0,1,AA,No,Clear,A
+683,O+,0,0,1,AA,No,Clear,A
+684,A+,1,0,1,AS,Few,Cloudy,A and S
+685,AB+,1,1,1,AA,No,Clear,A
+686,O+,0,0,1,AA,No,Clear,A
+687,O+,0,0,1,AC,No,Clear,A and C
+688,A+,1,0,1,AS,Few,Cloudy,A and S
+689,O+,0,0,1,AS,Few,Cloudy,A and S
+690,O+,0,0,1,AS,Few,Cloudy,A and S
+691,B+,0,1,1,AS,Few,Cloudy,A and S
+692,B+,0,1,1,AA,No,Clear,A
+693,B+,0,1,1,AA,No,Clear,A
+694,O+,0,0,1,AA,No,Clear,A
+695,O+,0,0,1,AA,No,Clear,A
+696,O+,0,0,1,AS,Few,Cloudy,A and S
+697,A+,1,0,1,AA,No,Clear,A
+698,O+,0,0,1,AA,No,Clear,A
+699,A+,1,0,1,AA,No,Clear,A
+700,B+,0,1,1,AA,No,Clear,A
+701,O+,0,0,1,AA,No,Clear,A
+702,O+,0,0,1,AA,No,Clear,A
+703,O+,0,0,1,AA,No,Clear,A
+704,O+,0,0,1,AA,No,Clear,A
+705,B+,0,1,1,AA,No,Clear,A
+706,A+,1,0,1,AA,No,Clear,A
+707,AB+,1,1,1,AA,No,Clear,A
+708,B+,0,1,1,AC,No,Clear,A and C
+709,O+,0,0,1,AA,No,Clear,A
+710,A+,1,0,1,AA,No,Clear,A
+711,A+,1,0,1,AA,No,Clear,A
+712,O+,0,0,1,AA,No,Clear,A
+713,O+,0,0,1,AS,Few,Cloudy,A and S
+714,A+,1,0,1,AA,No,Clear,A
+715,AB+,1,1,1,AA,No,Clear,A
+716,A+,1,0,1,AA,No,Clear,A
+717,O+,0,0,1,AS,Few,Cloudy,A and S
+718,B+,0,1,1,AA,No,Clear,A
+719,B+,0,1,1,AA,No,Clear,A
+720,B+,0,1,1,AA,No,Clear,A
+721,O+,0,0,1,AS,Few,Cloudy,A and S
+722,O+,0,0,1,AA,No,Clear,A
+723,B+,0,1,1,AA,No,Clear,A
+724,O+,0,0,1,AA,No,Clear,A
+725,O+,0,0,1,AA,No,Clear,A
+726,A+,1,0,1,AS,Few,Cloudy,A and S
+727,O+,0,0,1,AA,No,Clear,A
+728,O+,0,0,1,AA,No,Clear,A
+729,B+,0,1,1,AA,No,Clear,A
+730,A+,1,0,1,AA,No,Clear,A
+731,O+,0,0,1,AA,No,Clear,A
+732,B+,0,1,1,AA,No,Clear,A
+733,O+,0,0,1,AA,No,Clear,A
+734,A+,1,0,1,AA,No,Clear,A
+735,O+,0,0,1,AA,No,Clear,A
+736,O+,0,0,1,AA,No,Clear,A
+737,O+,0,0,1,AA,No,Clear,A
+738,A+,1,0,1,AA,No,Clear,A
+739,O+,0,0,1,AS,Few,Cloudy,A and S
+740,B+,0,1,1,AS,Few,Cloudy,A and S
+741,A+,1,0,1,AA,No,Clear,A
+742,A+,1,0,1,AA,No,Clear,A
+743,B+,0,1,1,AA,No,Clear,A
+744,B+,0,1,1,AA,No,Clear,A
+745,O+,0,0,1,AA,No,Clear,A
+746,O+,0,0,1,AA,No,Clear,A
+747,A-,1,0,0,AC,No,Clear,A and C
+748,B+,0,1,1,AA,No,Clear,A
+749,O+,0,0,1,AA,No,Clear,A
+750,B+,0,1,1,AA,No,Clear,A
+751,A+,1,0,1,AA,No,Clear,A
+752,B+,0,1,1,AS,Few,Cloudy,A and S
+753,O+,0,0,1,AA,No,Clear,A
+754,B+,0,1,1,AA,No,Clear,A
+755,A+,1,0,1,AA,No,Clear,A
+756,A+,1,0,1,AA,No,Clear,A
+757,O-,0,0,0,AA,No,Clear,A
+758,A+,1,0,1,AS,Few,Cloudy,A and S
+759,O+,0,0,1,AA,No,Clear,A
+760,A+,1,0,1,AA,No,Clear,A
+761,A+,1,0,1,AA,No,Clear,A
+762,O+,0,0,1,AA,No,Clear,A
+763,O+,0,0,1,AS,Few,Cloudy,A and S
+764,O+,0,0,1,AA,No,Clear,A
+765,O+,0,0,1,AA,No,Clear,A
+766,A+,1,0,1,AS,Few,Cloudy,A and S
+767,B+,0,1,1,AS,Few,Cloudy,A and S
+768,O+,0,0,1,AA,No,Clear,A
+769,A+,1,0,1,AA,No,Clear,A
+770,O+,0,0,1,AA,No,Clear,A
+771,O+,0,0,1,AA,No,Clear,A
+772,O+,0,0,1,AA,No,Clear,A
+773,O+,0,0,1,AA,No,Clear,A
+774,O+,0,0,1,AA,No,Clear,A
+775,B+,0,1,1,AA,No,Clear,A
+776,O+,0,0,1,AS,Few,Cloudy,A and S
+777,O+,0,0,1,AA,No,Clear,A
+778,O+,0,0,1,AS,Few,Cloudy,A and S
+779,O+,0,0,1,AA,No,Clear,A
+780,O+,0,0,1,AS,Few,Cloudy,A and S
+781,B+,0,1,1,AA,No,Clear,A
+782,A+,1,0,1,AA,No,Clear,A
+783,A+,1,0,1,AA,No,Clear,A
+784,B+,0,1,1,AA,No,Clear,A
+785,O+,0,0,1,AA,No,Clear,A
+786,A+,1,0,1,AA,No,Clear,A
+787,O+,0,0,1,AA,No,Clear,A
+788,O+,0,0,1,AA,No,Clear,A
+789,B+,0,1,1,AA,No,Clear,A
+790,B+,0,1,1,AS,Few,Cloudy,A and S
+791,O+,0,0,1,AA,No,Clear,A
+792,B+,0,1,1,AA,No,Clear,A
+793,O+,0,0,1,AA,No,Clear,A
+794,A+,1,0,1,AA,No,Clear,A
+795,O+,0,0,1,AA,No,Clear,A
+796,B+,0,1,1,AA,No,Clear,A
+797,A+,1,0,1,AA,No,Clear,A
+798,B+,0,1,1,AA,No,Clear,A
+799,B+,0,1,1,AA,No,Clear,A
+800,A+,1,0,1,AA,No,Clear,A
+801,AB+,1,1,1,AS,Few,Cloudy,A and S
+802,O+,0,0,1,AA,No,Clear,A
+803,B+,0,1,1,AA,No,Clear,A
+804,A+,1,0,1,AC,No,Clear,A and C
+805,B+,0,1,1,AC,No,Clear,A and C
+806,O-,0,0,0,AA,No,Clear,A
+807,B+,0,1,1,AA,No,Clear,A
+808,O+,0,0,1,AA,No,Clear,A
+809,O+,0,0,1,AA,No,Clear,A
+810,O+,0,0,1,AA,No,Clear,A
+811,B+,0,1,1,AA,No,Clear,A
+812,A+,1,0,1,AS,Few,Cloudy,A and S
+813,O+,0,0,1,AA,No,Clear,A
+814,O-,0,0,0,AA,No,Clear,A
+815,B+,0,1,1,AA,No,Clear,A
+816,O+,0,0,1,AS,Few,Cloudy,A and S
+817,A+,1,0,1,AA,No,Clear,A
+818,O-,0,0,0,AA,No,Clear,A
+819,O+,0,0,1,AA,No,Clear,A
+820,B+,0,1,1,AS,Few,Cloudy,A and S
+821,O+,0,0,1,AS,Few,Cloudy,A and S
+822,O+,0,0,1,AS,Few,Cloudy,A and S
+823,A+,1,0,1,AS,Few,Cloudy,A and S
+824,A+,1,0,1,AA,No,Clear,A
+825,B+,0,1,1,AA,No,Clear,A
+826,B+,0,1,1,AA,No,Clear,A
+827,O+,0,0,1,AA,No,Clear,A
+828,A+,1,0,1,AC,No,Clear,A and C
+829,B+,0,1,1,SC,Few,Cloudy,S and C
+830,O+,0,0,1,AA,No,Clear,A
+831,O+,0,0,1,AA,No,Clear,A
+832,B+,0,1,1,AA,No,Clear,A
+833,O+,0,0,1,AA,No,Clear,A
+834,AB+,1,1,1,AA,No,Clear,A
+835,B+,0,1,1,AC,No,Clear,A and C
+836,B+,0,1,1,AA,No,Clear,A
+837,O+,0,0,1,AA,No,Clear,A
+838,O+,0,0,1,AA,No,Clear,A
+839,O+,0,0,1,AA,No,Clear,A
+840,B+,0,1,1,AA,No,Clear,A
+841,B+,0,1,1,AA,No,Clear,A
+842,O+,0,0,1,AA,No,Clear,A
+843,O+,0,0,1,AA,No,Clear,A
+844,O+,0,0,1,AS,Few,Cloudy,A and S
+845,O+,0,0,1,AA,No,Clear,A
+846,A+,1,0,1,AA,No,Clear,A
+847,A-,1,0,0,AS,Few,Cloudy,A and S
+848,A+,1,0,1,AA,No,Clear,A
+849,O+,0,0,1,AA,No,Clear,A
+850,A-,1,0,0,AA,No,Clear,A
+851,O+,0,0,1,AA,No,Clear,A
+852,O+,0,0,1,AA,No,Clear,A
+853,B+,0,1,1,SS,Yes,Cloudy,S
+854,O+,0,0,1,AA,No,Clear,A
+855,A+,1,0,1,AA,No,Clear,A
+856,O+,0,0,1,AA,No,Clear,A
+857,O+,0,0,1,AA,No,Clear,A
+858,A+,1,0,1,AA,No,Clear,A
+859,O+,0,0,1,AA,No,Clear,A
+860,O+,0,0,1,AA,No,Clear,A
+861,O+,0,0,1,AA,No,Clear,A
+862,O-,0,0,0,AA,No,Clear,A
+863,O+,0,0,1,SS,Yes,Cloudy,S
+864,O+,0,0,1,AA,No,Clear,A
+865,O+,0,0,1,AS,Few,Cloudy,A and S
+866,O+,0,0,1,AS,Few,Cloudy,A and S
+867,AB+,1,1,1,AA,No,Clear,A
+868,O+,0,0,1,AA,No,Clear,A
+869,A+,1,0,1,AA,No,Clear,A
+870,O+,0,0,1,AA,No,Clear,A
+871,O+,0,0,1,AA,No,Clear,A
+872,O+,0,0,1,AC,No,Clear,A and C
+873,O+,0,0,1,AA,No,Clear,A
+874,B+,0,1,1,AA,No,Clear,A
+875,A+,1,0,1,AA,No,Clear,A
+876,A+,1,0,1,AA,No,Clear,A
+877,A+,1,0,1,AA,No,Clear,A
+878,A+,1,0,1,AA,No,Clear,A
+879,B+,0,1,1,AA,No,Clear,A
+880,O+,0,0,1,AA,No,Clear,A
+881,B+,0,1,1,AA,No,Clear,A
+882,O+,0,0,1,AA,No,Clear,A
+883,A+,1,0,1,AA,No,Clear,A
+884,O+,0,0,1,AA,No,Clear,A
+885,A+,1,0,1,AS,Few,Cloudy,A and S
+886,A+,1,0,1,AS,Few,Cloudy,A and S
+887,O+,0,0,1,AA,No,Clear,A
+888,O+,0,0,1,AS,Few,Cloudy,A and S
+889,A+,1,0,1,AS,Few,Cloudy,A and S
+890,B+,0,1,1,AA,No,Clear,A
+891,O+,0,0,1,AA,No,Clear,A
+892,O+,0,0,1,AA,No,Clear,A
+893,O+,0,0,1,AA,No,Clear,A
+894,A+,1,0,1,SC,Few,Cloudy,S and C
+895,A+,1,0,1,AA,No,Clear,A
+896,O+,0,0,1,AA,No,Clear,A
+897,O+,0,0,1,AA,No,Clear,A
+898,A+,1,0,1,AA,No,Clear,A
+899,A+,1,0,1,AA,No,Clear,A
+900,A+,1,0,1,AA,No,Clear,A
+901,O+,0,0,1,AS,Few,Cloudy,A and S
+902,A+,1,0,1,AA,No,Clear,A
+903,A+,1,0,1,AA,No,Clear,A
+904,A-,1,0,0,AA,No,Clear,A
+905,A+,1,0,1,AA,No,Clear,A
+906,O+,0,0,1,AA,No,Clear,A
+907,A+,1,0,1,AS,Few,Cloudy,A and S
+908,O+,0,0,1,AA,No,Clear,A
+909,O+,0,0,1,AS,Few,Cloudy,A and S
+910,A+,1,0,1,AA,No,Clear,A
+911,O+,0,0,1,AA,No,Clear,A
+912,B+,0,1,1,AA,No,Clear,A
+913,O+,0,0,1,AS,Few,Cloudy,A and S
+914,A+,1,0,1,AA,No,Clear,A
+915,A-,1,0,0,AA,No,Clear,A
+916,A+,1,0,1,AA,No,Clear,A
+917,A+,1,0,1,AA,No,Clear,A
+918,A+,1,0,1,AC,No,Clear,A and C
+919,O+,0,0,1,AA,No,Clear,A
+920,B+,0,1,1,AS,Few,Cloudy,A and S
+921,O+,0,0,1,AA,No,Clear,A
+922,B+,0,1,1,AS,Few,Cloudy,A and S
+923,A+,1,0,1,AS,Few,Cloudy,A and S
+924,O+,0,0,1,AS,Few,Cloudy,A and S
+925,AB+,1,1,1,AA,No,Clear,A
+926,B+,0,1,1,AA,No,Clear,A
+927,B+,0,1,1,AA,No,Clear,A
+928,A+,1,0,1,AC,No,Clear,A and C
+929,O+,0,0,1,AS,Few,Cloudy,A and S
+930,O+,0,0,1,AA,No,Clear,A
+931,B+,0,1,1,AA,No,Clear,A
+932,A+,1,0,1,AA,No,Clear,A
+933,O+,0,0,1,AA,No,Clear,A
+934,A+,1,0,1,AA,No,Clear,A
+935,O+,0,0,1,AA,No,Clear,A
+936,O+,0,0,1,AA,No,Clear,A
+937,A+,1,0,1,AC,No,Clear,A and C
+938,A+,1,0,1,AC,No,Clear,A and C
+939,O+,0,0,1,AA,No,Clear,A
+940,A+,1,0,1,AS,Few,Cloudy,A and S
+941,O+,0,0,1,AA,No,Clear,A
+942,A+,1,0,1,AA,No,Clear,A
+943,B+,0,1,1,AA,No,Clear,A
+944,B+,0,1,1,AA,No,Clear,A
+945,O+,0,0,1,AA,No,Clear,A
+946,O+,0,0,1,AA,No,Clear,A
+947,A+,1,0,1,AA,No,Clear,A
+948,A+,1,0,1,AA,No,Clear,A
+949,O+,0,0,1,AA,No,Clear,A
+950,O+,0,0,1,AS,Few,Cloudy,A and S
+951,A+,1,0,1,AA,No,Clear,A
+952,O+,0,0,1,AA,No,Clear,A
+953,B+,0,1,1,AA,No,Clear,A
+954,B+,0,1,1,AA,No,Clear,A
+955,AB+,1,1,1,AA,No,Clear,A
+956,O+,0,0,1,AA,No,Clear,A
+957,O+,0,0,1,AS,Few,Cloudy,A and S
+958,O+,0,0,1,AA,No,Clear,A
+959,O+,0,0,1,AA,No,Clear,A
+960,O+,0,0,1,AA,No,Clear,A
+961,B+,0,1,1,AA,No,Clear,A
+962,O+,0,0,1,AA,No,Clear,A
+963,B+,0,1,1,AS,Few,Cloudy,A and S
+964,O+,0,0,1,AS,Few,Cloudy,A and S
+965,O+,0,0,1,AA,No,Clear,A
+966,O+,0,0,1,AA,No,Clear,A
+967,B+,0,1,1,AA,No,Clear,A
+968,B+,0,1,1,AS,Few,Cloudy,A and S
+969,O+,0,0,1,AA,No,Clear,A
+970,O+,0,0,1,AA,No,Clear,A
+971,A+,1,0,1,AA,No,Clear,A
+972,O+,0,0,1,AA,No,Clear,A
+973,B+,0,1,1,AA,No,Clear,A
+974,O+,0,0,1,AS,Few,Cloudy,A and S
+975,O+,0,0,1,AS,Few,Cloudy,A and S
+976,A+,1,0,1,AA,No,Clear,A
+977,A+,1,0,1,AA,No,Clear,A
+978,B+,0,1,1,AA,No,Clear,A
+979,O+,0,0,1,AA,No,Clear,A
+980,A+,1,0,1,AS,Few,Cloudy,A and S
+981,O+,0,0,1,AA,No,Clear,A
+982,O+,0,0,1,AA,No,Clear,A
+983,B+,0,1,1,AS,Few,Cloudy,A and S
+984,A+,1,0,1,AA,No,Clear,A
+985,O+,0,0,1,AA,No,Clear,A
+986,O+,0,0,1,AA,No,Clear,A
+987,B+,0,1,1,AA,No,Clear,A
+988,O+,0,0,1,AS,Few,Cloudy,A and S
+989,B+,0,1,1,AA,No,Clear,A
+990,O-,0,0,0,AS,Few,Cloudy,A and S
+991,O+,0,0,1,AA,No,Clear,A
+992,O+,0,0,1,AS,Few,Cloudy,A and S
+993,A+,1,0,1,AA,No,Clear,A
+994,O+,0,0,1,AA,No,Clear,A
+995,O+,0,0,1,AA,No,Clear,A
+996,O+,0,0,1,AS,Few,Cloudy,A and S
+997,O+,0,0,1,AA,No,Clear,A
+998,B+,0,1,1,AA,No,Clear,A
+999,O+,0,0,1,AS,Few,Cloudy,A and S
+1000,O+,0,0,1,AS,Few,Cloudy,A and S
+1001,O+,0,0,1,AA,No,Clear,A
+1002,O+,0,0,1,AS,Few,Cloudy,A and S
+1003,O+,0,0,1,AA,No,Clear,A
+1004,AB+,1,1,1,AS,Few,Cloudy,A and S
+1005,O+,0,0,1,AS,Few,Cloudy,A and S
+1006,B+,0,1,1,AS,Few,Cloudy,A and S
+1007,O+,0,0,1,AA,No,Clear,A
+1008,O+,0,0,1,AA,No,Clear,A
+1009,B+,0,1,1,AS,Few,Cloudy,A and S
+1010,A+,1,0,1,AS,Few,Cloudy,A and S
+1011,AB+,1,1,1,AA,No,Clear,A
+1012,O+,0,0,1,AS,Few,Cloudy,A and S
+1013,O+,0,0,1,AS,Few,Cloudy,A and S
+1014,B+,0,1,1,AA,No,Clear,A
+1015,O+,0,0,1,AA,No,Clear,A
+1016,AB+,1,1,1,AA,No,Clear,A
+1017,O-,0,0,0,AA,No,Clear,A
+1018,O+,0,0,1,AA,No,Clear,A
+1019,O+,0,0,1,AA,No,Clear,A
+1020,O+,0,0,1,AA,No,Clear,A
+1021,O+,0,0,1,AA,No,Clear,A
+1022,A+,1,0,1,AS,Few,Cloudy,A and S
+1023,O+,0,0,1,AA,No,Clear,A
+1024,O+,0,0,1,AA,No,Clear,A
+1025,A+,1,0,1,AA,No,Clear,A
+1026,O+,0,0,1,AS,Few,Cloudy,A and S
+1027,O+,0,0,1,AA,No,Clear,A
+1028,O+,0,0,1,AA,No,Clear,A
+1029,A+,1,0,1,AA,No,Clear,A
+1030,A+,1,0,1,AA,No,Clear,A
+1031,A+,1,0,1,AA,No,Clear,A
+1032,O+,0,0,1,AA,No,Clear,A
+1033,B+,0,1,1,AA,No,Clear,A
+1034,B+,0,1,1,AS,Few,Cloudy,A and S
+1035,O+,0,0,1,AA,No,Clear,A
+1036,A+,1,0,1,AA,No,Clear,A
+1037,A-,1,0,0,AA,No,Clear,A
+1038,B+,0,1,1,AA,No,Clear,A
+1039,B+,0,1,1,AA,No,Clear,A
+1040,A+,1,0,1,AA,No,Clear,A
+1041,O-,0,0,0,AA,No,Clear,A
+1042,A+,1,0,1,AS,Few,Cloudy,A and S
+1043,O-,0,0,0,AA,No,Clear,A
+1044,A+,1,0,1,AA,No,Clear,A
+1045,O+,0,0,1,AA,No,Clear,A
+1046,A+,1,0,1,AA,No,Clear,A
+1047,AB+,1,1,1,AA,No,Clear,A
+1048,B+,0,1,1,AA,No,Clear,A
+1049,A+,1,0,1,AA,No,Clear,A
+1050,O+,0,0,1,AS,Few,Cloudy,A and S
+1051,O+,0,0,1,AA,No,Clear,A
+1052,O+,0,0,1,AA,No,Clear,A
+1053,O+,0,0,1,AA,No,Clear,A
+1054,B+,0,1,1,AC,No,Clear,A and C
+1055,O+,0,0,1,AS,Few,Cloudy,A and S
+1056,O+,0,0,1,AA,No,Clear,A
+1057,O+,0,0,1,AA,No,Clear,A
+1058,A+,1,0,1,AA,No,Clear,A
+1059,O+,0,0,1,AA,No,Clear,A
+1060,O+,0,0,1,AC,No,Clear,A and C
+1061,AB+,1,1,1,AS,Few,Cloudy,A and S
+1062,O+,0,0,1,AA,No,Clear,A
+1063,O+,0,0,1,AA,No,Clear,A
+1064,O+,0,0,1,AS,Few,Cloudy,A and S
+1065,B+,0,1,1,AS,Few,Cloudy,A and S
+1066,O+,0,0,1,AS,Few,Cloudy,A and S
+1067,O+,0,0,1,AA,No,Clear,A
+1068,O+,0,0,1,AA,No,Clear,A
+1069,B+,0,1,1,AA,No,Clear,A
+1070,O+,0,0,1,AA,No,Clear,A
+1071,O+,0,0,1,AA,No,Clear,A
+1072,O+,0,0,1,AS,Few,Cloudy,A and S
+1073,A+,1,0,1,AA,No,Clear,A
+1074,O+,0,0,1,AA,No,Clear,A
+1075,O+,0,0,1,AA,No,Clear,A
+1076,O+,0,0,1,AA,No,Clear,A
+1077,O+,0,0,1,AA,No,Clear,A
+1078,B+,0,1,1,AS,Few,Cloudy,A and S
+1079,O+,0,0,1,AC,No,Clear,A and C
+1080,A+,1,0,1,AA,No,Clear,A
+1081,AB+,1,1,1,AC,No,Clear,A and C
+1082,B+,0,1,1,AA,No,Clear,A
+1083,O+,0,0,1,AS,Few,Cloudy,A and S
+1084,O+,0,0,1,AA,No,Clear,A
+1085,O+,0,0,1,AS,Few,Cloudy,A and S
+1086,B+,0,1,1,AA,No,Clear,A
+1087,B+,0,1,1,AA,No,Clear,A
+1088,B+,0,1,1,AS,Few,Cloudy,A and S
+1089,O+,0,0,1,AA,No,Clear,A
+1090,O+,0,0,1,AA,No,Clear,A
+1091,O+,0,0,1,AA,No,Clear,A
+1092,A+,1,0,1,AA,No,Clear,A
+1093,B+,0,1,1,AA,No,Clear,A
+1094,B+,0,1,1,AA,No,Clear,A
+1095,O-,0,0,0,AA,No,Clear,A
+1096,O+,0,0,1,AS,Few,Cloudy,A and S
+1097,B+,0,1,1,AA,No,Clear,A
+1098,O+,0,0,1,AA,No,Clear,A
+1099,O-,0,0,0,AA,No,Clear,A
+1100,O+,0,0,1,AA,No,Clear,A
+1101,O+,0,0,1,AC,No,Clear,A and C
+1102,O+,0,0,1,AA,No,Clear,A
+1103,A-,1,0,0,AA,No,Clear,A
+1104,O+,0,0,1,AA,No,Clear,A
+1105,A+,1,0,1,AS,Few,Cloudy,A and S
+1106,O-,0,0,0,AS,Few,Cloudy,A and S
+1107,B+,0,1,1,AS,Few,Cloudy,A and S
+1108,B+,0,1,1,AA,No,Clear,A
+1109,O-,0,0,0,AS,Few,Cloudy,A and S
+1110,O+,0,0,1,AA,No,Clear,A
+1111,A+,1,0,1,AA,No,Clear,A
+1112,O+,0,0,1,AA,No,Clear,A
+1113,O+,0,0,1,AS,Few,Cloudy,A and S
+1114,O+,0,0,1,AA,No,Clear,A
+1115,B-,0,1,0,AA,No,Clear,A
+1116,B+,0,1,1,AA,No,Clear,A
+1117,A+,1,0,1,AA,No,Clear,A
+1118,B+,0,1,1,AA,No,Clear,A
+1119,O+,0,0,1,AA,No,Clear,A
+1120,B+,0,1,1,AA,No,Clear,A
+1121,O+,0,0,1,AA,No,Clear,A
+1122,B+,0,1,1,AA,No,Clear,A
+1123,A+,1,0,1,AA,No,Clear,A
+1124,A+,1,0,1,AS,Few,Cloudy,A and S
+1125,O+,0,0,1,AC,No,Clear,A and C
+1126,A+,1,0,1,AA,No,Clear,A
+1127,O+,0,0,1,AA,No,Clear,A
+1128,AB+,1,1,1,AS,Few,Cloudy,A and S
+1129,O+,0,0,1,AS,Few,Cloudy,A and S
+1130,B+,0,1,1,AA,No,Clear,A
+1131,O+,0,0,1,AC,No,Clear,A and C
+1132,O+,0,0,1,AA,No,Clear,A
+1133,O+,0,0,1,AA,No,Clear,A
+1134,A+,1,0,1,AA,No,Clear,A
+1135,A+,1,0,1,AA,No,Clear,A
+1136,O+,0,0,1,AS,Few,Cloudy,A and S
+1137,O+,0,0,1,AA,No,Clear,A
+1138,O+,0,0,1,AS,Few,Cloudy,A and S
+1139,O+,0,0,1,AA,No,Clear,A
+1140,O+,0,0,1,AA,No,Clear,A
+1141,A+,1,0,1,AA,No,Clear,A
+1142,A+,1,0,1,AC,No,Clear,A and C
+1143,O+,0,0,1,AS,Few,Cloudy,A and S
+1144,B-,0,1,0,AA,No,Clear,A
+1145,O+,0,0,1,AA,No,Clear,A
+1146,O+,0,0,1,AA,No,Clear,A
+1147,B+,0,1,1,AA,No,Clear,A
+1148,O+,0,0,1,AA,No,Clear,A
+1149,O+,0,0,1,AA,No,Clear,A
+1150,O+,0,0,1,AA,No,Clear,A
+1151,O+,0,0,1,AA,No,Clear,A
+1152,O+,0,0,1,AS,Few,Cloudy,A and S
+1153,O+,0,0,1,AA,No,Clear,A
+1154,AB+,1,1,1,AA,No,Clear,A
+1155,O+,0,0,1,AA,No,Clear,A
+1156,B+,0,1,1,AS,Few,Cloudy,A and S
+1157,O+,0,0,1,AA,No,Clear,A
+1158,O+,0,0,1,AA,No,Clear,A
+1159,O+,0,0,1,AA,No,Clear,A
+1160,O+,0,0,1,AA,No,Clear,A
+1161,O+,0,0,1,AA,No,Clear,A
+1162,O+,0,0,1,AS,Few,Cloudy,A and S
+1163,O+,0,0,1,AA,No,Clear,A
+1164,A+,1,0,1,AA,No,Clear,A
+1165,B+,0,1,1,AA,No,Clear,A
+1166,A+,1,0,1,AA,No,Clear,A
+1167,A+,1,0,1,AA,No,Clear,A
+1168,O+,0,0,1,AA,No,Clear,A
+1169,O+,0,0,1,AA,No,Clear,A
+1170,A+,1,0,1,AA,No,Clear,A
+1171,B+,0,1,1,AA,No,Clear,A
+1172,O+,0,0,1,AA,No,Clear,A
+1173,O+,0,0,1,AA,No,Clear,A
+1174,A+,1,0,1,AS,Few,Cloudy,A and S
+1175,B+,0,1,1,AS,Few,Cloudy,A and S
+1176,B+,0,1,1,AS,Few,Cloudy,A and S
+1177,O+,0,0,1,AA,No,Clear,A
+1178,O+,0,0,1,AA,No,Clear,A
+1179,B+,0,1,1,AA,No,Clear,A
+1180,O+,0,0,1,AA,No,Clear,A
+1181,B+,0,1,1,AS,Few,Cloudy,A and S
+1182,O+,0,0,1,AA,No,Clear,A
+1183,A+,1,0,1,AA,No,Clear,A
+1184,O+,0,0,1,AS,Few,Cloudy,A and S
+1185,AB+,1,1,1,AA,No,Clear,A
+1186,O+,0,0,1,AS,Few,Cloudy,A and S
+1187,B+,0,1,1,AA,No,Clear,A
+1188,O+,0,0,1,AA,No,Clear,A
+1189,O+,0,0,1,AA,No,Clear,A
+1190,A+,1,0,1,AA,No,Clear,A
+1191,A+,1,0,1,AA,No,Clear,A
+1192,O+,0,0,1,AS,Few,Cloudy,A and S
+1193,A+,1,0,1,AA,No,Clear,A
+1194,A+,1,0,1,AA,No,Clear,A
+1195,O-,0,0,0,AA,No,Clear,A
+1196,O+,0,0,1,AA,No,Clear,A
+1197,B+,0,1,1,AA,No,Clear,A
+1198,O+,0,0,1,AS,Few,Cloudy,A and S
+1199,O+,0,0,1,AA,No,Clear,A
+1200,A+,1,0,1,AA,No,Clear,A
+1201,A+,1,0,1,AA,No,Clear,A
+1202,O+,0,0,1,AA,No,Clear,A
+1203,B+,0,1,1,AS,Few,Cloudy,A and S
+1204,O+,0,0,1,AA,No,Clear,A
+1205,B+,0,1,1,AA,No,Clear,A
+1206,O+,0,0,1,AA,No,Clear,A
+1207,A+,1,0,1,AA,No,Clear,A
+1208,O+,0,0,1,AA,No,Clear,A
+1209,A+,1,0,1,AA,No,Clear,A
+1210,O+,0,0,1,AA,No,Clear,A
+1211,O+,0,0,1,AA,No,Clear,A
+1212,O+,0,0,1,AA,No,Clear,A
+1213,O+,0,0,1,AS,Few,Cloudy,A and S
+1214,O+,0,0,1,AA,No,Clear,A
+1215,O+,0,0,1,AA,No,Clear,A
+1216,O+,0,0,1,AA,No,Clear,A
+1217,O+,0,0,1,AS,Few,Cloudy,A and S
+1218,A+,1,0,1,AC,No,Clear,A and C
+1219,B+,0,1,1,AA,No,Clear,A
+1220,B+,0,1,1,AS,Few,Cloudy,A and S
+1221,B+,0,1,1,AA,No,Clear,A
+1222,O+,0,0,1,AA,No,Clear,A
+1223,O+,0,0,1,AA,No,Clear,A
+1224,O+,0,0,1,AA,No,Clear,A
+1225,O+,0,0,1,AA,No,Clear,A
+1226,O+,0,0,1,AA,No,Clear,A
+1227,O+,0,0,1,AS,Few,Cloudy,A and S
+1228,O+,0,0,1,AA,No,Clear,A
+1229,O+,0,0,1,AA,No,Clear,A
+1230,B-,0,1,0,AA,No,Clear,A
+1231,O+,0,0,1,AS,Few,Cloudy,A and S
+1232,O+,0,0,1,AA,No,Clear,A
+1233,A+,1,0,1,AS,Few,Cloudy,A and S
+1234,A+,1,0,1,AS,Few,Cloudy,A and S
+1235,B+,0,1,1,AA,No,Clear,A
+1236,O+,0,0,1,AA,No,Clear,A
+1237,AB+,1,1,1,AS,Few,Cloudy,A and S
+1238,AB+,1,1,1,AA,No,Clear,A
+1239,O+,0,0,1,AS,Few,Cloudy,A and S
+1240,B+,0,1,1,AA,No,Clear,A
+1241,O+,0,0,1,AS,Few,Cloudy,A and S
+1242,A+,1,0,1,AS,Few,Cloudy,A and S
+1243,O+,0,0,1,AA,No,Clear,A
+1244,O+,0,0,1,AA,No,Clear,A
+1245,B-,0,1,0,AA,No,Clear,A
+1246,O+,0,0,1,AA,No,Clear,A
+1247,A+,1,0,1,AA,No,Clear,A
+1248,B+,0,1,1,AA,No,Clear,A
+1249,A+,1,0,1,AS,Few,Cloudy,A and S
+1250,O+,0,0,1,AA,No,Clear,A
+1251,O+,0,0,1,AA,No,Clear,A
+1252,O+,0,0,1,AA,No,Clear,A
+1253,O+,0,0,1,AA,No,Clear,A
+1254,O+,0,0,1,AS,Few,Cloudy,A and S
+1255,O+,0,0,1,AA,No,Clear,A
+1256,O+,0,0,1,AS,Few,Cloudy,A and S
+1257,O+,0,0,1,AC,No,Clear,A and C
+1258,B+,0,1,1,AA,No,Clear,A
+1259,O+,0,0,1,AA,No,Clear,A
+1260,A+,1,0,1,AA,No,Clear,A
+1261,B+,0,1,1,AA,No,Clear,A
+1262,B+,0,1,1,AS,Few,Cloudy,A and S
+1263,B+,0,1,1,AA,No,Clear,A
+1264,O+,0,0,1,AA,No,Clear,A
+1265,O+,0,0,1,AA,No,Clear,A
+1266,O+,0,0,1,AA,No,Clear,A
+1267,O-,0,0,0,AA,No,Clear,A
+1268,O+,0,0,1,AA,No,Clear,A
+1269,A+,1,0,1,AC,No,Clear,A and C
+1270,O+,0,0,1,AA,No,Clear,A
+1271,O+,0,0,1,AA,No,Clear,A
+1272,O+,0,0,1,AA,No,Clear,A
+1273,O+,0,0,1,AA,No,Clear,A
+1274,O+,0,0,1,AA,No,Clear,A
+1275,O+,0,0,1,AA,No,Clear,A
+1276,O+,0,0,1,AA,No,Clear,A
+1277,O+,0,0,1,AA,No,Clear,A
+1278,B+,0,1,1,AS,Few,Cloudy,A and S
+1279,B+,0,1,1,AS,Few,Cloudy,A and S
+1280,O+,0,0,1,AA,No,Clear,A
+1281,B+,0,1,1,AA,No,Clear,A
+1282,A+,1,0,1,AS,Few,Cloudy,A and S
+1283,B+,0,1,1,AA,No,Clear,A
+1284,AB+,1,1,1,AA,No,Clear,A
+1285,AB+,1,1,1,AA,No,Clear,A
+1286,O+,0,0,1,AA,No,Clear,A
+1287,A+,1,0,1,AA,No,Clear,A
+1288,O+,0,0,1,AS,Few,Cloudy,A and S
+1289,O+,0,0,1,AS,Few,Cloudy,A and S
+1290,O+,0,0,1,AA,No,Clear,A
+1291,A+,1,0,1,AA,No,Clear,A
+1292,O+,0,0,1,AA,No,Clear,A
+1293,A+,1,0,1,AA,No,Clear,A
+1294,O+,0,0,1,AA,No,Clear,A
+1295,AB+,1,1,1,AA,No,Clear,A
+1296,B+,0,1,1,AA,No,Clear,A
+1297,B+,0,1,1,AA,No,Clear,A
+1298,O+,0,0,1,AA,No,Clear,A
+1299,O+,0,0,1,AS,Few,Cloudy,A and S
+1300,B+,0,1,1,AA,No,Clear,A
+1301,B+,0,1,1,AS,Few,Cloudy,A and S
+1302,A+,1,0,1,AA,No,Clear,A
+1303,AB+,1,1,1,AA,No,Clear,A
+1304,O+,0,0,1,AA,No,Clear,A
+1305,O+,0,0,1,AS,Few,Cloudy,A and S
+1306,O+,0,0,1,AA,No,Clear,A
+1307,B-,0,1,0,AS,Few,Cloudy,A and S
+1308,B+,0,1,1,AA,No,Clear,A
+1309,B+,0,1,1,AA,No,Clear,A
+1310,O+,0,0,1,AS,Few,Cloudy,A and S
+1311,A+,1,0,1,AA,No,Clear,A
+1312,B+,0,1,1,AS,Few,Cloudy,A and S
+1313,A+,1,0,1,AA,No,Clear,A
+1314,O+,0,0,1,AA,No,Clear,A
+1315,O+,0,0,1,AA,No,Clear,A
+1316,A+,1,0,1,AA,No,Clear,A
+1317,O+,0,0,1,AS,Few,Cloudy,A and S
+1318,B+,0,1,1,AS,Few,Cloudy,A and S
+1319,O+,0,0,1,AA,No,Clear,A
+1320,B+,0,1,1,AS,Few,Cloudy,A and S
+1321,O+,0,0,1,AA,No,Clear,A
+1322,O+,0,0,1,AA,No,Clear,A
+1323,O+,0,0,1,AA,No,Clear,A
+1324,O+,0,0,1,AA,No,Clear,A
+1325,O-,0,0,0,AS,Few,Cloudy,A and S
+1326,O+,0,0,1,AS,Few,Cloudy,A and S
+1327,O+,0,0,1,AS,Few,Cloudy,A and S
+1328,B+,0,1,1,AA,No,Clear,A
+1329,O+,0,0,1,AA,No,Clear,A
+1330,O+,0,0,1,AA,No,Clear,A
+1331,O+,0,0,1,AA,No,Clear,A
+1332,O+,0,0,1,AA,No,Clear,A
+1333,O+,0,0,1,AA,No,Clear,A
+1334,O+,0,0,1,AA,No,Clear,A
+1335,O+,0,0,1,AA,No,Clear,A
+1336,O+,0,0,1,AA,No,Clear,A
+1337,A+,1,0,1,AA,No,Clear,A
+1338,O+,0,0,1,AA,No,Clear,A
+1339,A+,1,0,1,AA,No,Clear,A
+1340,B+,0,1,1,AC,No,Clear,A and C
+1341,A+,1,0,1,AA,No,Clear,A
+1342,O+,0,0,1,AA,No,Clear,A
+1343,O+,0,0,1,AA,No,Clear,A
+1344,O-,0,0,0,AC,No,Clear,A and C
+1345,A+,1,0,1,AA,No,Clear,A
+1346,O+,0,0,1,AA,No,Clear,A
+1347,O+,0,0,1,AA,No,Clear,A
+1348,O+,0,0,1,AA,No,Clear,A
+1349,A+,1,0,1,AA,No,Clear,A
+1350,A+,1,0,1,AA,No,Clear,A
+1351,A+,1,0,1,AA,No,Clear,A
+1352,AB+,1,1,1,AS,Few,Cloudy,A and S
+1353,O+,0,0,1,AA,No,Clear,A
+1354,B+,0,1,1,AS,Few,Cloudy,A and S
+1355,B+,0,1,1,AS,Few,Cloudy,A and S
+1356,O+,0,0,1,AS,Few,Cloudy,A and S
+1357,O+,0,0,1,AC,No,Clear,A and C
+1358,B+,0,1,1,AA,No,Clear,A
+1359,O+,0,0,1,AA,No,Clear,A
+1360,O+,0,0,1,AA,No,Clear,A
+1361,A+,1,0,1,AA,No,Clear,A
+1362,B+,0,1,1,AS,Few,Cloudy,A and S
+1363,O+,0,0,1,AS,Few,Cloudy,A and S
+1364,B+,0,1,1,AA,No,Clear,A
+1365,B+,0,1,1,AA,No,Clear,A
+1366,O+,0,0,1,SC,Few,Cloudy,S and C
+1367,B+,0,1,1,AA,No,Clear,A
+1368,O+,0,0,1,AA,No,Clear,A
+1369,O+,0,0,1,AA,No,Clear,A
+1370,B+,0,1,1,AA,No,Clear,A
+1371,O+,0,0,1,AA,No,Clear,A
+1372,O+,0,0,1,AA,No,Clear,A
+1373,O+,0,0,1,AA,No,Clear,A
+1374,B+,0,1,1,CC,No,Clear,C
+1375,O+,0,0,1,AA,No,Clear,A
+1376,O+,0,0,1,AA,No,Clear,A
+1377,O-,0,0,0,AA,No,Clear,A
+1378,A+,1,0,1,AS,Few,Cloudy,A and S
+1379,O+,0,0,1,AS,Few,Cloudy,A and S
+1380,O+,0,0,1,AA,No,Clear,A
+1381,B+,0,1,1,AA,No,Clear,A
+1382,O-,0,0,0,AA,No,Clear,A
+1383,O+,0,0,1,AA,No,Clear,A
+1384,O-,0,0,0,AA,No,Clear,A
+1385,O+,0,0,1,AS,Few,Cloudy,A and S
+1386,O+,0,0,1,AA,No,Clear,A
+1387,O+,0,0,1,AA,No,Clear,A
+1388,A+,1,0,1,AS,Few,Cloudy,A and S
+1389,O+,0,0,1,AS,Few,Cloudy,A and S
+1390,B+,0,1,1,AS,Few,Cloudy,A and S
+1391,B+,0,1,1,AS,Few,Cloudy,A and S
+1392,O+,0,0,1,AA,No,Clear,A
+1393,O+,0,0,1,AA,No,Clear,A
+1394,B+,0,1,1,AA,No,Clear,A
+1395,O+,0,0,1,AA,No,Clear,A
+1396,B+,0,1,1,AS,Few,Cloudy,A and S
+1397,B+,0,1,1,AA,No,Clear,A
+1398,A+,1,0,1,AS,Few,Cloudy,A and S
+1399,O+,0,0,1,AS,Few,Cloudy,A and S
+1400,B+,0,1,1,AA,No,Clear,A
+1401,B+,0,1,1,AA,No,Clear,A
+1402,O+,0,0,1,AC,No,Clear,A and C
+1403,O+,0,0,1,AA,No,Clear,A
+1404,O+,0,0,1,AS,Few,Cloudy,A and S
+1405,O+,0,0,1,AS,Few,Cloudy,A and S
+1406,B+,0,1,1,AA,No,Clear,A
+1407,O+,0,0,1,AA,No,Clear,A
+1408,O+,0,0,1,AS,Few,Cloudy,A and S
+1409,O+,0,0,1,AA,No,Clear,A
+1410,O+,0,0,1,AA,No,Clear,A
+1411,A+,1,0,1,AA,No,Clear,A
+1412,B+,0,1,1,AA,No,Clear,A
+1413,B+,0,1,1,AS,Few,Cloudy,A and S
+1414,B+,0,1,1,AA,No,Clear,A
+1415,O+,0,0,1,AA,No,Clear,A
+1416,O+,0,0,1,AA,No,Clear,A
+1417,A+,1,0,1,AA,No,Clear,A
+1418,O-,0,0,0,AA,No,Clear,A
+1419,O+,0,0,1,AA,No,Clear,A
+1420,AB+,1,1,1,AA,No,Clear,A
+1421,O+,0,0,1,AS,Few,Cloudy,A and S
+1422,A+,1,0,1,AA,No,Clear,A
+1423,O+,0,0,1,AS,Few,Cloudy,A and S
+1424,A+,1,0,1,AA,No,Clear,A
+1425,A+,1,0,1,AA,No,Clear,A
+1426,O+,0,0,1,AS,Few,Cloudy,A and S
+1427,O-,0,0,0,SC,Few,Cloudy,S and C
+1428,B+,0,1,1,AS,Few,Cloudy,A and S
+1429,O+,0,0,1,AA,No,Clear,A
+1430,A+,1,0,1,AA,No,Clear,A
+1431,B+,0,1,1,AA,No,Clear,A
+1432,O+,0,0,1,AS,Few,Cloudy,A and S
+1433,O+,0,0,1,AA,No,Clear,A
+1434,A+,1,0,1,AA,No,Clear,A
+1435,O+,0,0,1,AS,Few,Cloudy,A and S
+1436,B+,0,1,1,AA,No,Clear,A
+1437,B+,0,1,1,AA,No,Clear,A
+1438,O+,0,0,1,AA,No,Clear,A
+1439,B+,0,1,1,AA,No,Clear,A
+1440,O+,0,0,1,AA,No,Clear,A
+1441,O+,0,0,1,AA,No,Clear,A
+1442,A+,1,0,1,AA,No,Clear,A
+1443,O-,0,0,0,AS,Few,Cloudy,A and S
+1444,O-,0,0,0,AS,Few,Cloudy,A and S
+1445,B+,0,1,1,AS,Few,Cloudy,A and S
+1446,O+,0,0,1,AA,No,Clear,A
+1447,A+,1,0,1,AA,No,Clear,A
+1448,AB+,1,1,1,AA,No,Clear,A
+1449,O-,0,0,0,AA,No,Clear,A
+1450,O+,0,0,1,AS,Few,Cloudy,A and S
+1451,O+,0,0,1,AA,No,Clear,A
+1452,A+,1,0,1,AA,No,Clear,A
+1453,O+,0,0,1,AA,No,Clear,A
+1454,A+,1,0,1,AA,No,Clear,A
+1455,B+,0,1,1,AA,No,Clear,A
+1456,O+,0,0,1,AA,No,Clear,A
+1457,A+,1,0,1,AA,No,Clear,A
+1458,O-,0,0,0,AA,No,Clear,A
+1459,B+,0,1,1,AA,No,Clear,A
+1460,O+,0,0,1,AA,No,Clear,A
+1461,O-,0,0,0,AS,Few,Cloudy,A and S
+1462,O+,0,0,1,AA,No,Clear,A
+1463,A+,1,0,1,AA,No,Clear,A
+1464,B+,0,1,1,AA,No,Clear,A
+1465,O+,0,0,1,AA,No,Clear,A
+1466,O+,0,0,1,AA,No,Clear,A
+1467,O+,0,0,1,AS,Few,Cloudy,A and S
+1468,A+,1,0,1,AS,Few,Cloudy,A and S
+1469,O+,0,0,1,AA,No,Clear,A
+1470,O+,0,0,1,AA,No,Clear,A
+1471,O+,0,0,1,AA,No,Clear,A
+1472,B+,0,1,1,AA,No,Clear,A
+1473,A+,1,0,1,AA,No,Clear,A
+1474,O+,0,0,1,AA,No,Clear,A
+1475,A+,1,0,1,AS,Few,Cloudy,A and S
+1476,B+,0,1,1,AA,No,Clear,A
+1477,O+,0,0,1,AA,No,Clear,A
+1478,B-,0,1,0,AS,Few,Cloudy,A and S
+1479,O+,0,0,1,AA,No,Clear,A
+1480,B+,0,1,1,AA,No,Clear,A
+1481,O+,0,0,1,AC,No,Clear,A and C
+1482,O+,0,0,1,AA,No,Clear,A
+1483,B+,0,1,1,AA,No,Clear,A
+1484,B+,0,1,1,AA,No,Clear,A
+1485,B+,0,1,1,AA,No,Clear,A
+1486,O+,0,0,1,AA,No,Clear,A
+1487,A+,1,0,1,AS,Few,Cloudy,A and S
+1488,O+,0,0,1,AA,No,Clear,A
+1489,O+,0,0,1,AS,Few,Cloudy,A and S
+1490,AB+,1,1,1,AC,No,Clear,A and C
+1491,A-,1,0,0,AC,No,Clear,A and C
+1492,O+,0,0,1,AC,No,Clear,A and C
+1493,O+,0,0,1,AA,No,Clear,A
+1494,O+,0,0,1,AS,Few,Cloudy,A and S
+1495,O+,0,0,1,AA,No,Clear,A
+1496,O+,0,0,1,AS,Few,Cloudy,A and S
+1497,B+,0,1,1,AS,Few,Cloudy,A and S
+1498,O+,0,0,1,AA,No,Clear,A
+1499,O+,0,0,1,AA,No,Clear,A
+1500,B+,0,1,1,AS,Few,Cloudy,A and S
+1501,A+,1,0,1,AA,No,Clear,A
+1502,B+,0,1,1,AA,No,Clear,A
+1503,A+,1,0,1,AA,No,Clear,A
+1504,O+,0,0,1,AA,No,Clear,A
+1505,A+,1,0,1,AA,No,Clear,A
+1506,O+,0,0,1,AS,Few,Cloudy,A and S
+1507,O+,0,0,1,AA,No,Clear,A
+1508,O+,0,0,1,AA,No,Clear,A
+1509,O+,0,0,1,AA,No,Clear,A
+1510,O+,0,0,1,AS,Few,Cloudy,A and S
+1511,B+,0,1,1,AA,No,Clear,A
+1512,O+,0,0,1,AS,Few,Cloudy,A and S
+1513,B+,0,1,1,AS,Few,Cloudy,A and S
+1514,O+,0,0,1,AS,Few,Cloudy,A and S
+1515,O+,0,0,1,AA,No,Clear,A
+1516,O+,0,0,1,AA,No,Clear,A
+1517,O-,0,0,0,AS,Few,Cloudy,A and S
+1518,B+,0,1,1,AS,Few,Cloudy,A and S
+1519,O+,0,0,1,AA,No,Clear,A
+1520,O+,0,0,1,AA,No,Clear,A
+1521,O+,0,0,1,AA,No,Clear,A
+1522,O+,0,0,1,AC,No,Clear,A and C
+1523,B+,0,1,1,AA,No,Clear,A
+1524,O+,0,0,1,AS,Few,Cloudy,A and S
+1525,B+,0,1,1,AC,No,Clear,A and C
+1526,AB+,1,1,1,AA,No,Clear,A
+1527,O+,0,0,1,AS,Few,Cloudy,A and S
+1528,B+,0,1,1,AA,No,Clear,A
+1529,O+,0,0,1,AA,No,Clear,A
+1530,O+,0,0,1,AA,No,Clear,A
+1531,B+,0,1,1,AA,No,Clear,A
+1532,O+,0,0,1,AA,No,Clear,A
+1533,B+,0,1,1,AA,No,Clear,A
+1534,O+,0,0,1,AA,No,Clear,A
+1535,A-,1,0,0,AA,No,Clear,A
+1536,A+,1,0,1,AA,No,Clear,A
+1537,B+,0,1,1,AA,No,Clear,A
+1538,O+,0,0,1,AS,Few,Cloudy,A and S
+1539,A+,1,0,1,AS,Few,Cloudy,A and S
+1540,O+,0,0,1,AA,No,Clear,A
+1541,O+,0,0,1,AA,No,Clear,A
+1542,O+,0,0,1,AA,No,Clear,A
+1543,A+,1,0,1,AA,No,Clear,A
+1544,A+,1,0,1,AS,Few,Cloudy,A and S
+1545,O+,0,0,1,AS,Few,Cloudy,A and S
+1546,O+,0,0,1,AS,Few,Cloudy,A and S
+1547,O+,0,0,1,AA,No,Clear,A
+1548,A+,1,0,1,AS,Few,Cloudy,A and S
+1549,B+,0,1,1,AA,No,Clear,A
+1550,O+,0,0,1,AC,No,Clear,A and C
+1551,O+,0,0,1,AA,No,Clear,A
+1552,B+,0,1,1,AS,Few,Cloudy,A and S
+1553,B+,0,1,1,AS,Few,Cloudy,A and S
+1554,A+,1,0,1,AA,No,Clear,A
+1555,O+,0,0,1,AA,No,Clear,A
+1556,O+,0,0,1,AA,No,Clear,A
+1557,B+,0,1,1,AA,No,Clear,A
+1558,O+,0,0,1,AA,No,Clear,A
+1559,O+,0,0,1,AA,No,Clear,A
+1560,O+,0,0,1,AA,No,Clear,A
+1561,B+,0,1,1,AS,Few,Cloudy,A and S
+1562,O+,0,0,1,AA,No,Clear,A
+1563,O+,0,0,1,AA,No,Clear,A
+1564,O+,0,0,1,AA,No,Clear,A
+1565,O+,0,0,1,AA,No,Clear,A
+1566,B+,0,1,1,AS,Few,Cloudy,A and S
+1567,O+,0,0,1,AA,No,Clear,A
+1568,B+,0,1,1,AA,No,Clear,A
+1569,O+,0,0,1,AA,No,Clear,A
+1570,O+,0,0,1,AA,No,Clear,A
+1571,A+,1,0,1,AA,No,Clear,A
+1572,A+,1,0,1,AA,No,Clear,A
+1573,A+,1,0,1,AA,No,Clear,A
+1574,A+,1,0,1,AS,Few,Cloudy,A and S
+1575,B+,0,1,1,AA,No,Clear,A
+1576,B+,0,1,1,AA,No,Clear,A
+1577,AB-,1,1,0,AS,Few,Cloudy,A and S
+1578,B+,0,1,1,AA,No,Clear,A
+1579,A+,1,0,1,AA,No,Clear,A
+1580,B-,0,1,0,AA,No,Clear,A
+1581,O+,0,0,1,AA,No,Clear,A
+1582,O+,0,0,1,AA,No,Clear,A
+1583,O+,0,0,1,AA,No,Clear,A
+1584,A+,1,0,1,AA,No,Clear,A
+1585,O+,0,0,1,AC,No,Clear,A and C
+1586,O+,0,0,1,AA,No,Clear,A
+1587,O+,0,0,1,AA,No,Clear,A
+1588,A+,1,0,1,AA,No,Clear,A
+1589,B+,0,1,1,AA,No,Clear,A
+1590,B+,0,1,1,AS,Few,Cloudy,A and S
+1591,A+,1,0,1,AA,No,Clear,A
+1592,B-,0,1,0,AA,No,Clear,A
+1593,O+,0,0,1,AA,No,Clear,A
+1594,A+,1,0,1,AA,No,Clear,A
+1595,O+,0,0,1,AA,No,Clear,A
+1596,O+,0,0,1,AA,No,Clear,A
+1597,B+,0,1,1,AA,No,Clear,A
+1598,A+,1,0,1,AA,No,Clear,A
+1599,O+,0,0,1,AA,No,Clear,A
+1600,A+,1,0,1,AS,Few,Cloudy,A and S
+1601,A+,1,0,1,AA,No,Clear,A
+1602,O+,0,0,1,AA,No,Clear,A
+1603,A+,1,0,1,AA,No,Clear,A
+1604,A+,1,0,1,AA,No,Clear,A
+1605,O+,0,0,1,AS,Few,Cloudy,A and S
+1606,O+,0,0,1,AA,No,Clear,A
+1607,AB+,1,1,1,AA,No,Clear,A
+1608,A+,1,0,1,AA,No,Clear,A
+1609,O+,0,0,1,AA,No,Clear,A
+1610,O+,0,0,1,AA,No,Clear,A
+1611,A+,1,0,1,AA,No,Clear,A
+1612,O+,0,0,1,AS,Few,Cloudy,A and S
+1613,B+,0,1,1,AC,No,Clear,A and C
+1614,A+,1,0,1,AA,No,Clear,A
+1615,B+,0,1,1,AA,No,Clear,A
+1616,O+,0,0,1,AS,Few,Cloudy,A and S
+1617,A+,1,0,1,AA,No,Clear,A
+1618,A+,1,0,1,AS,Few,Cloudy,A and S
+1619,B+,0,1,1,AS,Few,Cloudy,A and S
+1620,O+,0,0,1,AA,No,Clear,A
+1621,O+,0,0,1,AS,Few,Cloudy,A and S
+1622,A+,1,0,1,AA,No,Clear,A
+1623,A+,1,0,1,AS,Few,Cloudy,A and S
+1624,A+,1,0,1,AA,No,Clear,A
+1625,B-,0,1,0,AA,No,Clear,A
+1626,AB+,1,1,1,AS,Few,Cloudy,A and S
+1627,A+,1,0,1,AA,No,Clear,A
+1628,O+,0,0,1,AS,Few,Cloudy,A and S
+1629,B+,0,1,1,AA,No,Clear,A
+1630,A+,1,0,1,CC,No,Clear,C
+1631,O+,0,0,1,AA,No,Clear,A
+1632,A+,1,0,1,AA,No,Clear,A
+1633,O+,0,0,1,AA,No,Clear,A
+1634,O+,0,0,1,AA,No,Clear,A
+1635,B+,0,1,1,AS,Few,Cloudy,A and S
+1636,O+,0,0,1,AA,No,Clear,A
+1637,B+,0,1,1,AA,No,Clear,A
+1638,A+,1,0,1,AA,No,Clear,A
+1639,O+,0,0,1,AA,No,Clear,A
+1640,B+,0,1,1,SC,Few,Cloudy,S and C
+1641,O+,0,0,1,AS,Few,Cloudy,A and S
+1642,O+,0,0,1,AA,No,Clear,A
+1643,O+,0,0,1,AA,No,Clear,A
+1644,O+,0,0,1,AA,No,Clear,A
+1645,B+,0,1,1,AS,Few,Cloudy,A and S
+1646,O+,0,0,1,AA,No,Clear,A
+1647,B+,0,1,1,AA,No,Clear,A
+1648,A+,1,0,1,AS,Few,Cloudy,A and S
+1649,O+,0,0,1,AA,No,Clear,A
+1650,A+,1,0,1,AC,No,Clear,A and C
+1651,O+,0,0,1,AA,No,Clear,A
+1652,O+,0,0,1,AA,No,Clear,A
+1653,B+,0,1,1,AS,Few,Cloudy,A and S
+1654,AB+,1,1,1,AA,No,Clear,A
+1655,O+,0,0,1,AA,No,Clear,A
+1656,O+,0,0,1,AA,No,Clear,A
+1657,O+,0,0,1,AA,No,Clear,A
+1658,O+,0,0,1,AA,No,Clear,A
+1659,O+,0,0,1,AS,Few,Cloudy,A and S
+1660,O+,0,0,1,AS,Few,Cloudy,A and S
+1661,O+,0,0,1,AA,No,Clear,A
+1662,B+,0,1,1,AA,No,Clear,A
+1663,O+,0,0,1,AA,No,Clear,A
+1664,B+,0,1,1,AA,No,Clear,A
+1665,B+,0,1,1,AA,No,Clear,A
+1666,O+,0,0,1,AS,Few,Cloudy,A and S
+1667,O+,0,0,1,AA,No,Clear,A
+1668,A+,1,0,1,AA,No,Clear,A
+1669,AB+,1,1,1,AA,No,Clear,A
+1670,A+,1,0,1,AA,No,Clear,A
+1671,B+,0,1,1,AS,Few,Cloudy,A and S
+1672,A+,1,0,1,SC,Few,Cloudy,S and C
+1673,O+,0,0,1,AS,Few,Cloudy,A and S
+1674,B+,0,1,1,AS,Few,Cloudy,A and S
+1675,O+,0,0,1,AC,No,Clear,A and C
+1676,A+,1,0,1,AA,No,Clear,A
+1677,B+,0,1,1,AA,No,Clear,A
+1678,AB+,1,1,1,AA,No,Clear,A
+1679,A+,1,0,1,AA,No,Clear,A
+1680,O+,0,0,1,AA,No,Clear,A
+1681,O-,0,0,0,AA,No,Clear,A
+1682,B+,0,1,1,AA,No,Clear,A
+1683,O+,0,0,1,AA,No,Clear,A
+1684,O-,0,0,0,AS,Few,Cloudy,A and S
+1685,A+,1,0,1,AA,No,Clear,A
+1686,O+,0,0,1,AA,No,Clear,A
+1687,A+,1,0,1,AA,No,Clear,A
+1688,A+,1,0,1,AS,Few,Cloudy,A and S
+1689,O+,0,0,1,AS,Few,Cloudy,A and S
+1690,B+,0,1,1,AA,No,Clear,A
+1691,O+,0,0,1,AA,No,Clear,A
+1692,AB+,1,1,1,AS,Few,Cloudy,A and S
+1693,O+,0,0,1,AS,Few,Cloudy,A and S
+1694,O+,0,0,1,AA,No,Clear,A
+1695,O+,0,0,1,AA,No,Clear,A
+1696,O+,0,0,1,AA,No,Clear,A
+1697,O+,0,0,1,AA,No,Clear,A
+1698,O+,0,0,1,AA,No,Clear,A
+1699,O+,0,0,1,AA,No,Clear,A
+1700,B+,0,1,1,AA,No,Clear,A
+1701,O+,0,0,1,AA,No,Clear,A
+1702,O+,0,0,1,AS,Few,Cloudy,A and S
+1703,A+,1,0,1,AA,No,Clear,A
+1704,O+,0,0,1,AC,No,Clear,A and C
+1705,B+,0,1,1,AA,No,Clear,A
+1706,O+,0,0,1,AA,No,Clear,A
+1707,B+,0,1,1,AA,No,Clear,A
+1708,A+,1,0,1,AA,No,Clear,A
+1709,B+,0,1,1,AA,No,Clear,A
+1710,B+,0,1,1,AA,No,Clear,A
+1711,O+,0,0,1,AC,No,Clear,A and C
+1712,A+,1,0,1,AA,No,Clear,A
+1713,O+,0,0,1,AA,No,Clear,A
+1714,B+,0,1,1,AA,No,Clear,A
+1715,B+,0,1,1,AA,No,Clear,A
+1716,O+,0,0,1,AA,No,Clear,A
+1717,A+,1,0,1,AA,No,Clear,A
+1718,B+,0,1,1,AA,No,Clear,A
+1719,A+,1,0,1,AA,No,Clear,A
+1720,A+,1,0,1,AA,No,Clear,A
+1721,A+,1,0,1,AA,No,Clear,A
+1722,O+,0,0,1,AS,Few,Cloudy,A and S
+1723,O+,0,0,1,AA,No,Clear,A
+1724,O+,0,0,1,AA,No,Clear,A
+1725,O+,0,0,1,AA,No,Clear,A
+1726,O+,0,0,1,AA,No,Clear,A
+1727,B+,0,1,1,AA,No,Clear,A
+1728,O+,0,0,1,AA,No,Clear,A
+1729,B+,0,1,1,AA,No,Clear,A
+1730,O+,0,0,1,AS,Few,Cloudy,A and S
+1731,O+,0,0,1,AA,No,Clear,A
+1732,O+,0,0,1,AA,No,Clear,A
+1733,O+,0,0,1,AA,No,Clear,A
+1734,O+,0,0,1,AA,No,Clear,A
+1735,A+,1,0,1,AA,No,Clear,A
+1736,A+,1,0,1,AA,No,Clear,A
+1737,O+,0,0,1,AA,No,Clear,A
+1738,AB+,1,1,1,AA,No,Clear,A
+1739,B+,0,1,1,AA,No,Clear,A
+1740,O+,0,0,1,AA,No,Clear,A
+1741,A+,1,0,1,AA,No,Clear,A
+1742,O+,0,0,1,AA,No,Clear,A
+1743,O+,0,0,1,AA,No,Clear,A
+1744,O-,0,0,0,AS,Few,Cloudy,A and S
+1745,O+,0,0,1,AA,No,Clear,A
+1746,O+,0,0,1,AA,No,Clear,A
+1747,B+,0,1,1,AA,No,Clear,A
+1748,O+,0,0,1,AS,Few,Cloudy,A and S
+1749,O-,0,0,0,AA,No,Clear,A
+1750,O+,0,0,1,AA,No,Clear,A
+1751,A+,1,0,1,AA,No,Clear,A
+1752,O+,0,0,1,AS,Few,Cloudy,A and S
+1753,O-,0,0,0,AS,Few,Cloudy,A and S
+1754,A+,1,0,1,AA,No,Clear,A
+1755,A+,1,0,1,AA,No,Clear,A
+1756,B-,0,1,0,AA,No,Clear,A
+1757,A+,1,0,1,AS,Few,Cloudy,A and S
+1758,A+,1,0,1,AA,No,Clear,A
+1759,A+,1,0,1,AA,No,Clear,A
+1760,A+,1,0,1,AA,No,Clear,A
+1761,A+,1,0,1,AA,No,Clear,A
+1762,B+,0,1,1,AA,No,Clear,A
+1763,A+,1,0,1,AS,Few,Cloudy,A and S
+1764,O+,0,0,1,AA,No,Clear,A
+1765,B+,0,1,1,AS,Few,Cloudy,A and S
+1766,A+,1,0,1,AA,No,Clear,A
+1767,O+,0,0,1,AA,No,Clear,A
+1768,O+,0,0,1,AS,Few,Cloudy,A and S
+1769,B-,0,1,0,AA,No,Clear,A
+1770,O+,0,0,1,AS,Few,Cloudy,A and S
+1771,O+,0,0,1,AA,No,Clear,A
+1772,O-,0,0,0,AS,Few,Cloudy,A and S
+1773,B+,0,1,1,AA,No,Clear,A
+1774,AB+,1,1,1,AS,Few,Cloudy,A and S
+1775,B+,0,1,1,AA,No,Clear,A
+1776,A+,1,0,1,AA,No,Clear,A
+1777,O+,0,0,1,AA,No,Clear,A
+1778,A+,1,0,1,AA,No,Clear,A
+1779,A+,1,0,1,AA,No,Clear,A
+1780,O+,0,0,1,AA,No,Clear,A
+1781,O+,0,0,1,AC,No,Clear,A and C
+1782,A+,1,0,1,AS,Few,Cloudy,A and S
+1783,B+,0,1,1,AA,No,Clear,A
+1784,B+,0,1,1,AA,No,Clear,A
+1785,O-,0,0,0,AA,No,Clear,A
+1786,O-,0,0,0,AA,No,Clear,A
+1787,O+,0,0,1,AA,No,Clear,A
+1788,O+,0,0,1,AA,No,Clear,A
+1789,A+,1,0,1,AA,No,Clear,A
+1790,O+,0,0,1,AA,No,Clear,A
+1791,O+,0,0,1,AA,No,Clear,A
+1792,B+,0,1,1,AA,No,Clear,A
+1793,B+,0,1,1,AS,Few,Cloudy,A and S
+1794,B+,0,1,1,AA,No,Clear,A
+1795,A+,1,0,1,AA,No,Clear,A
+1796,A+,1,0,1,AA,No,Clear,A
+1797,A+,1,0,1,AA,No,Clear,A
+1798,O+,0,0,1,AA,No,Clear,A
+1799,O+,0,0,1,AS,Few,Cloudy,A and S
+1800,O+,0,0,1,AC,No,Clear,A and C
+1801,AB-,1,1,0,AA,No,Clear,A
+1802,A-,1,0,0,AA,No,Clear,A
+1803,O+,0,0,1,AA,No,Clear,A
+1804,O+,0,0,1,AA,No,Clear,A
+1805,O+,0,0,1,AA,No,Clear,A
+1806,O+,0,0,1,AA,No,Clear,A
+1807,O+,0,0,1,AS,Few,Cloudy,A and S
+1808,O+,0,0,1,AA,No,Clear,A
+1809,AB+,1,1,1,AS,Few,Cloudy,A and S
+1810,A+,1,0,1,AA,No,Clear,A
+1811,O+,0,0,1,AA,No,Clear,A
+1812,O+,0,0,1,AA,No,Clear,A
+1813,A+,1,0,1,AS,Few,Cloudy,A and S
+1814,A+,1,0,1,AA,No,Clear,A
+1815,B+,0,1,1,AA,No,Clear,A
+1816,A+,1,0,1,AA,No,Clear,A
+1817,O-,0,0,0,AA,No,Clear,A
+1818,O+,0,0,1,AA,No,Clear,A
+1819,A+,1,0,1,AA,No,Clear,A
+1820,A+,1,0,1,AA,No,Clear,A
+1821,O-,0,0,0,AS,Few,Cloudy,A and S
+1822,A-,1,0,0,AS,Few,Cloudy,A and S
+1823,B+,0,1,1,AA,No,Clear,A
+1824,A+,1,0,1,AA,No,Clear,A
+1825,A+,1,0,1,AA,No,Clear,A
+1826,O+,0,0,1,AA,No,Clear,A
+1827,AB+,1,1,1,AA,No,Clear,A
+1828,A+,1,0,1,AS,Few,Cloudy,A and S
+1829,A+,1,0,1,AA,No,Clear,A
+1830,O+,0,0,1,AA,No,Clear,A
+1831,O+,0,0,1,AA,No,Clear,A
+1832,A+,1,0,1,AA,No,Clear,A
+1833,A+,1,0,1,AA,No,Clear,A
+1834,B+,0,1,1,AA,No,Clear,A
+1835,B+,0,1,1,AA,No,Clear,A
+1836,A+,1,0,1,AA,No,Clear,A
+1837,A+,1,0,1,AA,No,Clear,A
+1838,A+,1,0,1,AA,No,Clear,A
+1839,A+,1,0,1,AA,No,Clear,A
+1840,O+,0,0,1,AA,No,Clear,A
+1841,O+,0,0,1,AS,Few,Cloudy,A and S
+1842,A+,1,0,1,AS,Few,Cloudy,A and S
+1843,O+,0,0,1,AA,No,Clear,A
+1844,O+,0,0,1,AS,Few,Cloudy,A and S
+1845,A+,1,0,1,AA,No,Clear,A
+1846,B+,0,1,1,AA,No,Clear,A
+1847,O+,0,0,1,AA,No,Clear,A
+1848,B+,0,1,1,AA,No,Clear,A
+1849,AB+,1,1,1,AA,No,Clear,A
+1850,B+,0,1,1,AS,Few,Cloudy,A and S
+1851,A+,1,0,1,AA,No,Clear,A
+1852,O-,0,0,0,AA,No,Clear,A
+1853,O+,0,0,1,AA,No,Clear,A
+1854,O+,0,0,1,AS,Few,Cloudy,A and S
+1855,B+,0,1,1,AS,Few,Cloudy,A and S
+1856,O+,0,0,1,AA,No,Clear,A
+1857,O+,0,0,1,AA,No,Clear,A
+1858,O+,0,0,1,AA,No,Clear,A
+1859,O+,0,0,1,AA,No,Clear,A
+1860,O+,0,0,1,AA,No,Clear,A
+1861,O+,0,0,1,AA,No,Clear,A
+1862,O+,0,0,1,AA,No,Clear,A
+1863,A+,1,0,1,AA,No,Clear,A
+1864,O+,0,0,1,AC,No,Clear,A and C
+1865,O-,0,0,0,AA,No,Clear,A
+1866,B+,0,1,1,AS,Few,Cloudy,A and S
+1867,O+,0,0,1,AA,No,Clear,A
+1868,O+,0,0,1,AS,Few,Cloudy,A and S
+1869,B+,0,1,1,AA,No,Clear,A
+1870,O+,0,0,1,AA,No,Clear,A
+1871,O+,0,0,1,AA,No,Clear,A
+1872,O+,0,0,1,AA,No,Clear,A
+1873,AB+,1,1,1,AA,No,Clear,A
+1874,O+,0,0,1,AA,No,Clear,A
+1875,B+,0,1,1,AA,No,Clear,A
+1876,O-,0,0,0,AS,Few,Cloudy,A and S
+1877,B+,0,1,1,AA,No,Clear,A
+1878,AB+,1,1,1,AS,Few,Cloudy,A and S
+1879,A+,1,0,1,AA,No,Clear,A
+1880,A+,1,0,1,AS,Few,Cloudy,A and S
+1881,O+,0,0,1,AA,No,Clear,A
+1882,O+,0,0,1,AA,No,Clear,A
+1883,B+,0,1,1,AS,Few,Cloudy,A and S
+1884,A+,1,0,1,AA,No,Clear,A
+1885,O+,0,0,1,AC,No,Clear,A and C
+1886,O+,0,0,1,AA,No,Clear,A
+1887,O+,0,0,1,AA,No,Clear,A
+1888,B+,0,1,1,AA,No,Clear,A
+1889,B+,0,1,1,AA,No,Clear,A
+1890,B-,0,1,0,AA,No,Clear,A
+1891,O+,0,0,1,AA,No,Clear,A
+1892,O+,0,0,1,AA,No,Clear,A
+1893,B+,0,1,1,AA,No,Clear,A
+1894,O+,0,0,1,AA,No,Clear,A
+1895,O+,0,0,1,AS,Few,Cloudy,A and S
+1896,O+,0,0,1,AA,No,Clear,A
+1897,AB-,1,1,0,AS,Few,Cloudy,A and S
+1898,O+,0,0,1,AA,No,Clear,A
+1899,O+,0,0,1,AA,No,Clear,A
+1900,B-,0,1,0,AA,No,Clear,A
+1901,A+,1,0,1,AA,No,Clear,A
+1902,A-,1,0,0,AA,No,Clear,A
+1903,O-,0,0,0,AS,Few,Cloudy,A and S
+1904,O+,0,0,1,AA,No,Clear,A
+1905,O+,0,0,1,AA,No,Clear,A
+1906,O+,0,0,1,AA,No,Clear,A
+1907,A+,1,0,1,AS,Few,Cloudy,A and S
+1908,A+,1,0,1,AA,No,Clear,A
+1909,O+,0,0,1,AA,No,Clear,A
+1910,O+,0,0,1,AS,Few,Cloudy,A and S
+1911,B+,0,1,1,AA,No,Clear,A
+1912,A+,1,0,1,AS,Few,Cloudy,A and S
+1913,B+,0,1,1,AS,Few,Cloudy,A and S
+1914,O+,0,0,1,AA,No,Clear,A
+1915,B+,0,1,1,AA,No,Clear,A
+1916,AB+,1,1,1,AA,No,Clear,A
+1917,B+,0,1,1,AA,No,Clear,A
+1918,A+,1,0,1,AC,No,Clear,A and C
+1919,O+,0,0,1,AA,No,Clear,A
+1920,O+,0,0,1,AA,No,Clear,A
+1921,AB+,1,1,1,AS,Few,Cloudy,A and S
+1922,B+,0,1,1,AA,No,Clear,A
+1923,B+,0,1,1,AA,No,Clear,A
+1924,O+,0,0,1,AA,No,Clear,A
+1925,O+,0,0,1,AA,No,Clear,A
+1926,O+,0,0,1,AA,No,Clear,A
+1927,O+,0,0,1,AA,No,Clear,A
+1928,B-,0,1,0,AA,No,Clear,A
+1929,B+,0,1,1,AA,No,Clear,A
+1930,B+,0,1,1,AA,No,Clear,A
+1931,O+,0,0,1,AA,No,Clear,A
+1932,B+,0,1,1,AC,No,Clear,A and C
+1933,A+,1,0,1,AA,No,Clear,A
+1934,O+,0,0,1,AA,No,Clear,A
+1935,O+,0,0,1,AA,No,Clear,A
+1936,B+,0,1,1,AS,Few,Cloudy,A and S
+1937,O+,0,0,1,AA,No,Clear,A
+1938,O+,0,0,1,AA,No,Clear,A
+1939,O+,0,0,1,AA,No,Clear,A
+1940,O+,0,0,1,AA,No,Clear,A
+1941,A+,1,0,1,AA,No,Clear,A
+1942,O+,0,0,1,AA,No,Clear,A
+1943,AB+,1,1,1,AA,No,Clear,A
+1944,O+,0,0,1,AS,Few,Cloudy,A and S
+1945,A+,1,0,1,AA,No,Clear,A
+1946,O+,0,0,1,AA,No,Clear,A
+1947,O+,0,0,1,AA,No,Clear,A
+1948,AB+,1,1,1,AA,No,Clear,A
+1949,O+,0,0,1,AS,Few,Cloudy,A and S
+1950,O+,0,0,1,AA,No,Clear,A
+1951,O+,0,0,1,SS,Yes,Cloudy,S
+1952,O+,0,0,1,AA,No,Clear,A
+1953,O+,0,0,1,AA,No,Clear,A
+1954,O+,0,0,1,AA,No,Clear,A
+1955,O+,0,0,1,AA,No,Clear,A
+1956,B+,0,1,1,AC,No,Clear,A and C
+1957,O+,0,0,1,AS,Few,Cloudy,A and S
+1958,O+,0,0,1,AA,No,Clear,A
+1959,B+,0,1,1,AA,No,Clear,A
+1960,O+,0,0,1,AS,Few,Cloudy,A and S
+1961,A+,1,0,1,AA,No,Clear,A
+1962,A+,1,0,1,AA,No,Clear,A
+1963,B+,0,1,1,AA,No,Clear,A
+1964,O+,0,0,1,AA,No,Clear,A
+1965,B+,0,1,1,AA,No,Clear,A
+1966,O+,0,0,1,AA,No,Clear,A
+1967,A+,1,0,1,AA,No,Clear,A
+1968,O+,0,0,1,AA,No,Clear,A
+1969,A+,1,0,1,AA,No,Clear,A
+1970,O-,0,0,0,AA,No,Clear,A
+1971,A+,1,0,1,AA,No,Clear,A
+1972,A-,1,0,0,AS,Few,Cloudy,A and S
+1973,A+,1,0,1,AA,No,Clear,A
+1974,B+,0,1,1,AA,No,Clear,A
+1975,A+,1,0,1,AA,No,Clear,A
+1976,O+,0,0,1,AA,No,Clear,A
+1977,O+,0,0,1,AA,No,Clear,A
+1978,O+,0,0,1,AA,No,Clear,A
+1979,O+,0,0,1,AS,Few,Cloudy,A and S
+1980,O+,0,0,1,AA,No,Clear,A
+1981,O+,0,0,1,AA,No,Clear,A
+1982,B+,0,1,1,AA,No,Clear,A
+1983,O-,0,0,0,AA,No,Clear,A
+1984,B-,0,1,0,AA,No,Clear,A
+1985,A+,1,0,1,AA,No,Clear,A
+1986,O+,0,0,1,AA,No,Clear,A
+1987,O+,0,0,1,AA,No,Clear,A
+1988,O+,0,0,1,AA,No,Clear,A
+1989,O+,0,0,1,AS,Few,Cloudy,A and S
+1990,B+,0,1,1,AA,No,Clear,A
+1991,A+,1,0,1,AA,No,Clear,A
+1992,B+,0,1,1,AA,No,Clear,A
+1993,O+,0,0,1,AA,No,Clear,A
+1994,O+,0,0,1,AC,No,Clear,A and C
+1995,O+,0,0,1,AA,No,Clear,A
+1996,O+,0,0,1,AA,No,Clear,A
+1997,B+,0,1,1,AA,No,Clear,A
+1998,O+,0,0,1,AA,No,Clear,A
+1999,A+,1,0,1,AA,No,Clear,A
+2000,A-,1,0,0,AA,No,Clear,A
+2001,A+,1,0,1,AS,Few,Cloudy,A and S
+2002,A+,1,0,1,AA,No,Clear,A
+2003,O+,0,0,1,AA,No,Clear,A
+2004,O+,0,0,1,AA,No,Clear,A
+2005,A+,1,0,1,AS,Few,Cloudy,A and S
+2006,B+,0,1,1,AA,No,Clear,A
+2007,A+,1,0,1,AA,No,Clear,A
+2008,A+,1,0,1,AA,No,Clear,A
+2009,O+,0,0,1,AA,No,Clear,A
+2010,AB+,1,1,1,AA,No,Clear,A
+2011,O+,0,0,1,AA,No,Clear,A
+2012,O+,0,0,1,AC,No,Clear,A and C
+2013,O+,0,0,1,AA,No,Clear,A
+2014,O+,0,0,1,AA,No,Clear,A
+2015,O+,0,0,1,AA,No,Clear,A
+2016,O+,0,0,1,AA,No,Clear,A
+2017,B+,0,1,1,AA,No,Clear,A
+2018,O+,0,0,1,AA,No,Clear,A
+2019,B+,0,1,1,AS,Few,Cloudy,A and S
+2020,O+,0,0,1,AA,No,Clear,A
+2021,A+,1,0,1,AA,No,Clear,A
+2022,O+,0,0,1,AA,No,Clear,A
+2023,A+,1,0,1,AS,Few,Cloudy,A and S
+2024,O-,0,0,0,AA,No,Clear,A
+2025,A+,1,0,1,AA,No,Clear,A
+2026,B+,0,1,1,AA,No,Clear,A
+2027,A+,1,0,1,AA,No,Clear,A
+2028,A+,1,0,1,AA,No,Clear,A
+2029,O+,0,0,1,AC,No,Clear,A and C
+2030,A+,1,0,1,AA,No,Clear,A
+2031,O+,0,0,1,AA,No,Clear,A
+2032,O+,0,0,1,AA,No,Clear,A
+2033,A+,1,0,1,AA,No,Clear,A
+2034,O+,0,0,1,AC,No,Clear,A and C
+2035,O+,0,0,1,AA,No,Clear,A
+2036,O+,0,0,1,AA,No,Clear,A
+2037,AB+,1,1,1,AA,No,Clear,A
+2038,A+,1,0,1,AA,No,Clear,A
+2039,B+,0,1,1,AA,No,Clear,A
+2040,O+,0,0,1,AA,No,Clear,A
+2041,A+,1,0,1,AA,No,Clear,A
+2042,O+,0,0,1,AA,No,Clear,A
+2043,O+,0,0,1,AS,Few,Cloudy,A and S
+2044,B+,0,1,1,AA,No,Clear,A
+2045,A+,1,0,1,AS,Few,Cloudy,A and S
+2046,B+,0,1,1,AA,No,Clear,A
+2047,O+,0,0,1,AA,No,Clear,A
+2048,O+,0,0,1,AA,No,Clear,A
+2049,O+,0,0,1,AA,No,Clear,A
+2050,O+,0,0,1,AA,No,Clear,A
+2051,O+,0,0,1,AA,No,Clear,A
+2052,O+,0,0,1,AA,No,Clear,A
+2053,B+,0,1,1,AC,No,Clear,A and C
+2054,O+,0,0,1,AA,No,Clear,A
+2055,O+,0,0,1,AS,Few,Cloudy,A and S
+2056,O+,0,0,1,AA,No,Clear,A
+2057,O+,0,0,1,AA,No,Clear,A
+2058,A+,1,0,1,AS,Few,Cloudy,A and S
+2059,O+,0,0,1,AA,No,Clear,A
+2060,A+,1,0,1,AS,Few,Cloudy,A and S
+2061,O+,0,0,1,AA,No,Clear,A
+2062,O+,0,0,1,AA,No,Clear,A
+2063,B+,0,1,1,AA,No,Clear,A
+2064,O+,0,0,1,AA,No,Clear,A
+2065,O+,0,0,1,AS,Few,Cloudy,A and S
+2066,O+,0,0,1,AA,No,Clear,A
+2067,B+,0,1,1,AA,No,Clear,A
+2068,O+,0,0,1,AA,No,Clear,A
+2069,B+,0,1,1,AA,No,Clear,A
+2070,B+,0,1,1,AA,No,Clear,A
+2071,O+,0,0,1,AA,No,Clear,A
+2072,B+,0,1,1,AA,No,Clear,A
+2073,O+,0,0,1,AS,Few,Cloudy,A and S
+2074,O+,0,0,1,AA,No,Clear,A
+2075,O+,0,0,1,AA,No,Clear,A
+2076,B+,0,1,1,AA,No,Clear,A
+2077,O+,0,0,1,AA,No,Clear,A
+2078,A+,1,0,1,AS,Few,Cloudy,A and S
+2079,O+,0,0,1,AA,No,Clear,A
+2080,O+,0,0,1,AA,No,Clear,A
+2081,B+,0,1,1,AA,No,Clear,A
+2082,O+,0,0,1,AA,No,Clear,A
+2083,A+,1,0,1,AS,Few,Cloudy,A and S
+2084,A+,1,0,1,AS,Few,Cloudy,A and S
+2085,O+,0,0,1,AA,No,Clear,A
+2086,O+,0,0,1,AA,No,Clear,A
+2087,O+,0,0,1,AS,Few,Cloudy,A and S
+2088,O-,0,0,0,AA,No,Clear,A
+2089,AB+,1,1,1,AA,No,Clear,A
+2090,O+,0,0,1,AA,No,Clear,A
+2091,A+,1,0,1,AA,No,Clear,A
+2092,O+,0,0,1,AA,No,Clear,A
+2093,A+,1,0,1,AA,No,Clear,A
+2094,O+,0,0,1,AA,No,Clear,A
+2095,A+,1,0,1,AA,No,Clear,A
+2096,O+,0,0,1,AS,Few,Cloudy,A and S
+2097,O+,0,0,1,AA,No,Clear,A
+2098,B+,0,1,1,AA,No,Clear,A
+2099,O+,0,0,1,AA,No,Clear,A
+2100,O+,0,0,1,AA,No,Clear,A
+2101,O+,0,0,1,AA,No,Clear,A
+2102,A+,1,0,1,AA,No,Clear,A
+2103,A+,1,0,1,AS,Few,Cloudy,A and S
+2104,A-,1,0,0,AA,No,Clear,A
+2105,B+,0,1,1,AA,No,Clear,A
+2106,O+,0,0,1,AC,No,Clear,A and C
+2107,O+,0,0,1,AA,No,Clear,A
+2108,O+,0,0,1,AA,No,Clear,A
+2109,B+,0,1,1,AA,No,Clear,A
+2110,O+,0,0,1,AS,Few,Cloudy,A and S
+2111,O+,0,0,1,AA,No,Clear,A
+2112,A+,1,0,1,AS,Few,Cloudy,A and S
+2113,O-,0,0,0,AS,Few,Cloudy,A and S
+2114,A+,1,0,1,AA,No,Clear,A
+2115,AB+,1,1,1,AA,No,Clear,A
+2116,O+,0,0,1,AA,No,Clear,A
+2117,O+,0,0,1,AA,No,Clear,A
+2118,O+,0,0,1,AA,No,Clear,A
+2119,O+,0,0,1,AA,No,Clear,A
+2120,O+,0,0,1,AA,No,Clear,A
+2121,A+,1,0,1,AA,No,Clear,A
+2122,B+,0,1,1,AA,No,Clear,A
+2123,B+,0,1,1,AA,No,Clear,A
+2124,B+,0,1,1,AA,No,Clear,A
+2125,O+,0,0,1,AA,No,Clear,A
+2126,B+,0,1,1,AA,No,Clear,A
+2127,O+,0,0,1,AA,No,Clear,A
+2128,O+,0,0,1,AA,No,Clear,A
+2129,A+,1,0,1,AA,No,Clear,A
+2130,O+,0,0,1,AA,No,Clear,A
+2131,A+,1,0,1,AA,No,Clear,A
+2132,B+,0,1,1,AA,No,Clear,A
+2133,O+,0,0,1,AS,Few,Cloudy,A and S
+2134,B+,0,1,1,AS,Few,Cloudy,A and S
+2135,A+,1,0,1,AS,Few,Cloudy,A and S
+2136,O+,0,0,1,AA,No,Clear,A
+2137,O+,0,0,1,AC,No,Clear,A and C
+2138,A+,1,0,1,AA,No,Clear,A
+2139,B+,0,1,1,AA,No,Clear,A
+2140,O+,0,0,1,AA,No,Clear,A
+2141,O+,0,0,1,AA,No,Clear,A
+2142,O+,0,0,1,AA,No,Clear,A
+2143,B+,0,1,1,AA,No,Clear,A
+2144,A+,1,0,1,AA,No,Clear,A
+2145,O+,0,0,1,AS,Few,Cloudy,A and S
+2146,O+,0,0,1,AA,No,Clear,A
+2147,O+,0,0,1,AS,Few,Cloudy,A and S
+2148,B+,0,1,1,AA,No,Clear,A
+2149,O+,0,0,1,AS,Few,Cloudy,A and S
+2150,A+,1,0,1,AA,No,Clear,A
+2151,AB+,1,1,1,AA,No,Clear,A
+2152,O+,0,0,1,AA,No,Clear,A
+2153,B+,0,1,1,AS,Few,Cloudy,A and S
+2154,O+,0,0,1,AS,Few,Cloudy,A and S
+2155,B+,0,1,1,AA,No,Clear,A
+2156,O+,0,0,1,AA,No,Clear,A
+2157,B+,0,1,1,AA,No,Clear,A
+2158,O+,0,0,1,AA,No,Clear,A
+2159,B+,0,1,1,AS,Few,Cloudy,A and S
+2160,B+,0,1,1,AS,Few,Cloudy,A and S
+2161,A+,1,0,1,AS,Few,Cloudy,A and S
+2162,B+,0,1,1,AS,Few,Cloudy,A and S
+2163,O+,0,0,1,AA,No,Clear,A
+2164,A+,1,0,1,AA,No,Clear,A
+2165,O+,0,0,1,AS,Few,Cloudy,A and S
+2166,B+,0,1,1,AS,Few,Cloudy,A and S
+2167,O+,0,0,1,AA,No,Clear,A
+2168,O-,0,0,0,AC,No,Clear,A and C
+2169,O+,0,0,1,AS,Few,Cloudy,A and S
+2170,O+,0,0,1,AS,Few,Cloudy,A and S
+2171,O+,0,0,1,AA,No,Clear,A
+2172,O+,0,0,1,AS,Few,Cloudy,A and S
+2173,O+,0,0,1,AA,No,Clear,A
+2174,B+,0,1,1,AA,No,Clear,A
+2175,B+,0,1,1,AA,No,Clear,A
+2176,B+,0,1,1,AS,Few,Cloudy,A and S
+2177,O+,0,0,1,AA,No,Clear,A
+2178,O+,0,0,1,AA,No,Clear,A
+2179,O+,0,0,1,AA,No,Clear,A
+2180,O+,0,0,1,AA,No,Clear,A
+2181,B+,0,1,1,AA,No,Clear,A
+2182,O+,0,0,1,AA,No,Clear,A
+2183,B+,0,1,1,AA,No,Clear,A
+2184,B+,0,1,1,AA,No,Clear,A
+2185,O+,0,0,1,AS,Few,Cloudy,A and S
+2186,O+,0,0,1,AS,Few,Cloudy,A and S
+2187,O+,0,0,1,AA,No,Clear,A
+2188,A+,1,0,1,AA,No,Clear,A
+2189,O+,0,0,1,AA,No,Clear,A
+2190,A-,1,0,0,AA,No,Clear,A
+2191,A+,1,0,1,AA,No,Clear,A
+2192,O+,0,0,1,AA,No,Clear,A
+2193,A+,1,0,1,AA,No,Clear,A
+2194,O+,0,0,1,AA,No,Clear,A
+2195,A+,1,0,1,AA,No,Clear,A
+2196,B+,0,1,1,AA,No,Clear,A
+2197,A+,1,0,1,AA,No,Clear,A
+2198,A+,1,0,1,AA,No,Clear,A
+2199,O+,0,0,1,SS,Yes,Cloudy,S
+2200,O+,0,0,1,AA,No,Clear,A
+2201,B+,0,1,1,AS,Few,Cloudy,A and S
+2202,O+,0,0,1,AS,Few,Cloudy,A and S
+2203,A+,1,0,1,AS,Few,Cloudy,A and S
+2204,B+,0,1,1,AA,No,Clear,A
+2205,B+,0,1,1,AA,No,Clear,A
+2206,O+,0,0,1,AA,No,Clear,A
+2207,O+,0,0,1,AA,No,Clear,A
+2208,O+,0,0,1,AA,No,Clear,A
+2209,O+,0,0,1,AA,No,Clear,A
+2210,O+,0,0,1,AA,No,Clear,A
+2211,O+,0,0,1,AA,No,Clear,A
+2212,O+,0,0,1,AA,No,Clear,A
+2213,O+,0,0,1,AA,No,Clear,A
+2214,O+,0,0,1,AC,No,Clear,A and C
+2215,O-,0,0,0,AA,No,Clear,A
+2216,B+,0,1,1,AA,No,Clear,A
+2217,O+,0,0,1,AA,No,Clear,A
+2218,O+,0,0,1,AS,Few,Cloudy,A and S
+2219,O+,0,0,1,AA,No,Clear,A
+2220,O+,0,0,1,AA,No,Clear,A
+2221,O+,0,0,1,SC,Few,Cloudy,S and C
+2222,A+,1,0,1,AA,No,Clear,A
+2223,O+,0,0,1,AA,No,Clear,A
+2224,O+,0,0,1,AS,Few,Cloudy,A and S
+2225,A+,1,0,1,AS,Few,Cloudy,A and S
+2226,B+,0,1,1,AA,No,Clear,A
+2227,O+,0,0,1,AA,No,Clear,A
+2228,B+,0,1,1,AS,Few,Cloudy,A and S
+2229,A+,1,0,1,AA,No,Clear,A
+2230,A+,1,0,1,AS,Few,Cloudy,A and S
+2231,A-,1,0,0,AA,No,Clear,A
+2232,A+,1,0,1,AA,No,Clear,A
+2233,O+,0,0,1,AA,No,Clear,A
+2234,O+,0,0,1,AA,No,Clear,A
+2235,O+,0,0,1,AA,No,Clear,A
+2236,AB+,1,1,1,AA,No,Clear,A
+2237,O+,0,0,1,AS,Few,Cloudy,A and S
+2238,O+,0,0,1,AS,Few,Cloudy,A and S
+2239,A+,1,0,1,AA,No,Clear,A
+2240,A+,1,0,1,AS,Few,Cloudy,A and S
+2241,O+,0,0,1,AA,No,Clear,A
+2242,A+,1,0,1,AA,No,Clear,A
+2243,O+,0,0,1,AA,No,Clear,A
+2244,O+,0,0,1,AA,No,Clear,A
+2245,A+,1,0,1,AA,No,Clear,A
+2246,A+,1,0,1,AA,No,Clear,A
+2247,O+,0,0,1,AC,No,Clear,A and C
+2248,O+,0,0,1,AA,No,Clear,A
+2249,B+,0,1,1,AS,Few,Cloudy,A and S
+2250,O+,0,0,1,AS,Few,Cloudy,A and S
+2251,O+,0,0,1,AA,No,Clear,A
+2252,B+,0,1,1,AA,No,Clear,A
+2253,O+,0,0,1,SS,Yes,Cloudy,S
+2254,O+,0,0,1,AA,No,Clear,A
+2255,A+,1,0,1,AS,Few,Cloudy,A and S
+2256,B+,0,1,1,AA,No,Clear,A
+2257,A+,1,0,1,SS,Yes,Cloudy,S
+2258,O+,0,0,1,AC,No,Clear,A and C
+2259,A+,1,0,1,AA,No,Clear,A
+2260,A-,1,0,0,AS,Few,Cloudy,A and S
+2261,A+,1,0,1,AS,Few,Cloudy,A and S
+2262,A+,1,0,1,AA,No,Clear,A
+2263,O+,0,0,1,AS,Few,Cloudy,A and S
+2264,A+,1,0,1,AS,Few,Cloudy,A and S
+2265,O-,0,0,0,AA,No,Clear,A
+2266,O+,0,0,1,AS,Few,Cloudy,A and S
+2267,A+,1,0,1,AA,No,Clear,A
+2268,A+,1,0,1,AA,No,Clear,A
+2269,A+,1,0,1,AA,No,Clear,A
+2270,B+,0,1,1,AA,No,Clear,A
+2271,O+,0,0,1,AA,No,Clear,A
+2272,O+,0,0,1,AA,No,Clear,A
+2273,O+,0,0,1,AA,No,Clear,A
+2274,O+,0,0,1,AA,No,Clear,A
+2275,O+,0,0,1,AA,No,Clear,A
+2276,AB+,1,1,1,AA,No,Clear,A
+2277,A+,1,0,1,AA,No,Clear,A
+2278,A+,1,0,1,AA,No,Clear,A
+2279,A+,1,0,1,AA,No,Clear,A
+2280,O+,0,0,1,AA,No,Clear,A
+2281,A+,1,0,1,AS,Few,Cloudy,A and S
+2282,O+,0,0,1,AS,Few,Cloudy,A and S
+2283,O+,0,0,1,AA,No,Clear,A
+2284,O+,0,0,1,AA,No,Clear,A
+2285,B-,0,1,0,AA,No,Clear,A
+2286,O+,0,0,1,SC,Few,Cloudy,S and C
+2287,O+,0,0,1,AA,No,Clear,A
+2288,O+,0,0,1,AS,Few,Cloudy,A and S
+2289,B+,0,1,1,AA,No,Clear,A
+2290,O-,0,0,0,AA,No,Clear,A
+2291,O+,0,0,1,AA,No,Clear,A
+2292,A+,1,0,1,AA,No,Clear,A
+2293,B+,0,1,1,AC,No,Clear,A and C
+2294,O+,0,0,1,AA,No,Clear,A
+2295,A+,1,0,1,AA,No,Clear,A
+2296,A+,1,0,1,AA,No,Clear,A
+2297,B-,0,1,0,AS,Few,Cloudy,A and S
+2298,O-,0,0,0,AA,No,Clear,A
+2299,O+,0,0,1,AA,No,Clear,A
+2300,A+,1,0,1,AA,No,Clear,A
+2301,O+,0,0,1,AA,No,Clear,A
+2302,O+,0,0,1,AA,No,Clear,A
+2303,AB+,1,1,1,AC,No,Clear,A and C
+2304,O+,0,0,1,AA,No,Clear,A
+2305,O+,0,0,1,AA,No,Clear,A
+2306,A+,1,0,1,SS,Yes,Cloudy,S
+2307,O-,0,0,0,AA,No,Clear,A
+2308,O+,0,0,1,AA,No,Clear,A
+2309,B-,0,1,0,AA,No,Clear,A
+2310,A+,1,0,1,AA,No,Clear,A
+2311,O+,0,0,1,AA,No,Clear,A
+2312,A+,1,0,1,AA,No,Clear,A
+2313,B+,0,1,1,AC,No,Clear,A and C
+2314,B+,0,1,1,AA,No,Clear,A
+2315,B-,0,1,0,AA,No,Clear,A
+2316,A+,1,0,1,AA,No,Clear,A
+2317,A+,1,0,1,AA,No,Clear,A
+2318,B+,0,1,1,AA,No,Clear,A
+2319,A+,1,0,1,AA,No,Clear,A
+2320,A-,1,0,0,AC,No,Clear,A and C
+2321,O+,0,0,1,AA,No,Clear,A
+2322,O+,0,0,1,AC,No,Clear,A and C
+2323,O+,0,0,1,AC,No,Clear,A and C
+2324,O+,0,0,1,AS,Few,Cloudy,A and S
+2325,B+,0,1,1,AA,No,Clear,A
+2326,O+,0,0,1,AS,Few,Cloudy,A and S
+2327,B+,0,1,1,AA,No,Clear,A
+2328,B-,0,1,0,AS,Few,Cloudy,A and S
+2329,O+,0,0,1,AS,Few,Cloudy,A and S
+2330,B+,0,1,1,AS,Few,Cloudy,A and S
+2331,O+,0,0,1,AS,Few,Cloudy,A and S
+2332,A+,1,0,1,AA,No,Clear,A
+2333,A+,1,0,1,AA,No,Clear,A
+2334,O+,0,0,1,AA,No,Clear,A
+2335,B+,0,1,1,AA,No,Clear,A
+2336,O+,0,0,1,AA,No,Clear,A
+2337,O+,0,0,1,AS,Few,Cloudy,A and S
+2338,B+,0,1,1,AS,Few,Cloudy,A and S
+2339,A+,1,0,1,AA,No,Clear,A
+2340,O+,0,0,1,AA,No,Clear,A
+2341,O+,0,0,1,AS,Few,Cloudy,A and S
+2342,A+,1,0,1,AA,No,Clear,A
+2343,AB+,1,1,1,AA,No,Clear,A
+2344,O+,0,0,1,AA,No,Clear,A
+2345,O+,0,0,1,AA,No,Clear,A
+2346,B+,0,1,1,AS,Few,Cloudy,A and S
+2347,A+,1,0,1,AC,No,Clear,A and C
+2348,A+,1,0,1,AA,No,Clear,A
+2349,O+,0,0,1,AA,No,Clear,A
+2350,A+,1,0,1,AS,Few,Cloudy,A and S
+2351,B+,0,1,1,AA,No,Clear,A
+2352,A-,1,0,0,AA,No,Clear,A
+2353,O+,0,0,1,AA,No,Clear,A
+2354,B+,0,1,1,AS,Few,Cloudy,A and S
+2355,O+,0,0,1,AA,No,Clear,A
+2356,A+,1,0,1,AA,No,Clear,A
+2357,O+,0,0,1,AS,Few,Cloudy,A and S
+2358,A-,1,0,0,AA,No,Clear,A
+2359,O+,0,0,1,AA,No,Clear,A
+2360,AB+,1,1,1,AA,No,Clear,A
+2361,O+,0,0,1,AS,Few,Cloudy,A and S
+2362,B+,0,1,1,AA,No,Clear,A
+2363,B+,0,1,1,AA,No,Clear,A
+2364,O+,0,0,1,AA,No,Clear,A
+2365,B+,0,1,1,AA,No,Clear,A
+2366,B+,0,1,1,AS,Few,Cloudy,A and S
+2367,O+,0,0,1,AA,No,Clear,A
+2368,B+,0,1,1,AA,No,Clear,A
+2369,O+,0,0,1,AA,No,Clear,A
+2370,B+,0,1,1,AS,Few,Cloudy,A and S
+2371,O+,0,0,1,AA,No,Clear,A
+2372,A-,1,0,0,AS,Few,Cloudy,A and S
+2373,B+,0,1,1,AS,Few,Cloudy,A and S
+2374,O+,0,0,1,AA,No,Clear,A
+2375,O+,0,0,1,AA,No,Clear,A
+2376,O+,0,0,1,AA,No,Clear,A
+2377,O+,0,0,1,AA,No,Clear,A
+2378,A+,1,0,1,AA,No,Clear,A
+2379,A+,1,0,1,AS,Few,Cloudy,A and S
+2380,B+,0,1,1,AA,No,Clear,A
+2381,B+,0,1,1,AA,No,Clear,A
+2382,O+,0,0,1,AA,No,Clear,A
+2383,A-,1,0,0,AA,No,Clear,A
+2384,O+,0,0,1,AA,No,Clear,A
+2385,O+,0,0,1,AA,No,Clear,A
+2386,O+,0,0,1,AA,No,Clear,A
+2387,O+,0,0,1,AA,No,Clear,A
+2388,O+,0,0,1,AS,Few,Cloudy,A and S
+2389,O+,0,0,1,AA,No,Clear,A
+2390,O+,0,0,1,AA,No,Clear,A
+2391,B-,0,1,0,AA,No,Clear,A
+2392,B+,0,1,1,AA,No,Clear,A
+2393,O-,0,0,0,AA,No,Clear,A
+2394,B+,0,1,1,AA,No,Clear,A
+2395,O+,0,0,1,AA,No,Clear,A
+2396,O-,0,0,0,AA,No,Clear,A
+2397,O+,0,0,1,AA,No,Clear,A
+2398,O+,0,0,1,AA,No,Clear,A
+2399,O+,0,0,1,AA,No,Clear,A
+2400,O+,0,0,1,AA,No,Clear,A
+2401,O+,0,0,1,AS,Few,Cloudy,A and S
+2402,B+,0,1,1,AA,No,Clear,A
+2403,O+,0,0,1,AA,No,Clear,A
+2404,A+,1,0,1,AA,No,Clear,A
+2405,B+,0,1,1,AA,No,Clear,A
+2406,B+,0,1,1,AS,Few,Cloudy,A and S
+2407,O+,0,0,1,AA,No,Clear,A
+2408,O+,0,0,1,AA,No,Clear,A
+2409,A+,1,0,1,AA,No,Clear,A
+2410,O+,0,0,1,AA,No,Clear,A
+2411,O+,0,0,1,AA,No,Clear,A
+2412,B+,0,1,1,AA,No,Clear,A
+2413,O+,0,0,1,AS,Few,Cloudy,A and S
+2414,O+,0,0,1,AA,No,Clear,A
+2415,O+,0,0,1,AA,No,Clear,A
+2416,O+,0,0,1,AA,No,Clear,A
+2417,O+,0,0,1,AA,No,Clear,A
+2418,A+,1,0,1,AA,No,Clear,A
+2419,A+,1,0,1,AA,No,Clear,A
+2420,B+,0,1,1,AA,No,Clear,A
+2421,O+,0,0,1,AA,No,Clear,A
+2422,O+,0,0,1,AS,Few,Cloudy,A and S
+2423,O+,0,0,1,AS,Few,Cloudy,A and S
+2424,O+,0,0,1,AA,No,Clear,A
+2425,O-,0,0,0,AA,No,Clear,A
+2426,B+,0,1,1,AA,No,Clear,A
+2427,O+,0,0,1,AA,No,Clear,A
+2428,B+,0,1,1,AA,No,Clear,A
+2429,A+,1,0,1,AA,No,Clear,A
+2430,O+,0,0,1,AA,No,Clear,A
+2431,O+,0,0,1,AS,Few,Cloudy,A and S
+2432,B+,0,1,1,AA,No,Clear,A
+2433,A+,1,0,1,AS,Few,Cloudy,A and S
+2434,A+,1,0,1,AS,Few,Cloudy,A and S
+2435,O+,0,0,1,AC,No,Clear,A and C
+2436,O-,0,0,0,AA,No,Clear,A
+2437,B+,0,1,1,AA,No,Clear,A
+2438,O+,0,0,1,AS,Few,Cloudy,A and S
+2439,O+,0,0,1,AS,Few,Cloudy,A and S
+2440,O+,0,0,1,AA,No,Clear,A
+2441,O+,0,0,1,AS,Few,Cloudy,A and S
+2442,O+,0,0,1,AA,No,Clear,A
+2443,O+,0,0,1,AS,Few,Cloudy,A and S
+2444,B+,0,1,1,AS,Few,Cloudy,A and S
+2445,O+,0,0,1,AS,Few,Cloudy,A and S
+2446,A+,1,0,1,AS,Few,Cloudy,A and S
+2447,A+,1,0,1,AC,No,Clear,A and C
+2448,B+,0,1,1,AA,No,Clear,A
+2449,O+,0,0,1,AS,Few,Cloudy,A and S
+2450,O+,0,0,1,AA,No,Clear,A
+2451,O+,0,0,1,AA,No,Clear,A
+2452,B+,0,1,1,AA,No,Clear,A
+2453,O+,0,0,1,AS,Few,Cloudy,A and S
+2454,O+,0,0,1,AA,No,Clear,A
+2455,O+,0,0,1,AS,Few,Cloudy,A and S
+2456,O+,0,0,1,AA,No,Clear,A
+2457,O-,0,0,0,AA,No,Clear,A
+2458,A+,1,0,1,AS,Few,Cloudy,A and S
+2459,A+,1,0,1,AA,No,Clear,A
+2460,A+,1,0,1,AA,No,Clear,A
+2461,A+,1,0,1,AA,No,Clear,A
+2462,AB-,1,1,0,AA,No,Clear,A
+2463,B+,0,1,1,AS,Few,Cloudy,A and S
+2464,A+,1,0,1,AA,No,Clear,A
+2465,O+,0,0,1,AA,No,Clear,A
+2466,O+,0,0,1,AS,Few,Cloudy,A and S
+2467,B+,0,1,1,AA,No,Clear,A
+2468,O-,0,0,0,AA,No,Clear,A
+2469,B+,0,1,1,AA,No,Clear,A
+2470,O+,0,0,1,AS,Few,Cloudy,A and S
+2471,O-,0,0,0,AA,No,Clear,A
+2472,O+,0,0,1,AA,No,Clear,A
+2473,B+,0,1,1,AA,No,Clear,A
+2474,A+,1,0,1,AC,No,Clear,A and C
+2475,O+,0,0,1,AA,No,Clear,A
+2476,O+,0,0,1,AA,No,Clear,A
+2477,A-,1,0,0,AA,No,Clear,A
+2478,O+,0,0,1,AA,No,Clear,A
+2479,O-,0,0,0,AA,No,Clear,A
+2480,O-,0,0,0,AA,No,Clear,A
+2481,A+,1,0,1,AA,No,Clear,A
+2482,O+,0,0,1,AA,No,Clear,A
+2483,A-,1,0,0,AA,No,Clear,A
+2484,A+,1,0,1,AA,No,Clear,A
+2485,O+,0,0,1,AS,Few,Cloudy,A and S
+2486,O+,0,0,1,AC,No,Clear,A and C
+2487,O+,0,0,1,AA,No,Clear,A
+2488,B+,0,1,1,AA,No,Clear,A
+2489,B+,0,1,1,AA,No,Clear,A
+2490,O+,0,0,1,AA,No,Clear,A
+2491,AB+,1,1,1,AA,No,Clear,A
+2492,O+,0,0,1,AA,No,Clear,A
+2493,O+,0,0,1,AA,No,Clear,A
+2494,B+,0,1,1,AA,No,Clear,A
+2495,O+,0,0,1,AA,No,Clear,A
+2496,O+,0,0,1,AA,No,Clear,A
+2497,O+,0,0,1,AA,No,Clear,A
+2498,O+,0,0,1,AA,No,Clear,A
+2499,B+,0,1,1,AA,No,Clear,A
+2500,O+,0,0,1,AA,No,Clear,A
+2501,O+,0,0,1,AA,No,Clear,A
+2502,O+,0,0,1,AS,Few,Cloudy,A and S
+2503,O+,0,0,1,AA,No,Clear,A
+2504,AB+,1,1,1,AA,No,Clear,A
+2505,A+,1,0,1,AA,No,Clear,A
+2506,B+,0,1,1,AA,No,Clear,A
+2507,O+,0,0,1,AS,Few,Cloudy,A and S
+2508,B+,0,1,1,AS,Few,Cloudy,A and S
+2509,O+,0,0,1,AS,Few,Cloudy,A and S
+2510,A+,1,0,1,AA,No,Clear,A
+2511,O+,0,0,1,AA,No,Clear,A
+2512,AB+,1,1,1,AA,No,Clear,A
+2513,O+,0,0,1,AA,No,Clear,A
+2514,O+,0,0,1,AA,No,Clear,A
+2515,B+,0,1,1,AA,No,Clear,A
+2516,B+,0,1,1,AA,No,Clear,A
+2517,O+,0,0,1,AS,Few,Cloudy,A and S
+2518,B+,0,1,1,AS,Few,Cloudy,A and S
+2519,O+,0,0,1,AA,No,Clear,A
+2520,O+,0,0,1,AA,No,Clear,A
+2521,B+,0,1,1,AS,Few,Cloudy,A and S
+2522,A+,1,0,1,AA,No,Clear,A
+2523,O+,0,0,1,AA,No,Clear,A
+2524,O+,0,0,1,AA,No,Clear,A
+2525,B+,0,1,1,AA,No,Clear,A
+2526,O-,0,0,0,AA,No,Clear,A
+2527,B+,0,1,1,AA,No,Clear,A
+2528,O+,0,0,1,AA,No,Clear,A
+2529,A+,1,0,1,AA,No,Clear,A
+2530,O+,0,0,1,AS,Few,Cloudy,A and S
+2531,O+,0,0,1,AA,No,Clear,A
+2532,O+,0,0,1,AS,Few,Cloudy,A and S
+2533,A+,1,0,1,AA,No,Clear,A
+2534,A+,1,0,1,AA,No,Clear,A
+2535,O+,0,0,1,AA,No,Clear,A
+2536,A+,1,0,1,AA,No,Clear,A
+2537,A+,1,0,1,AA,No,Clear,A
+2538,A+,1,0,1,AS,Few,Cloudy,A and S
+2539,O+,0,0,1,AA,No,Clear,A
+2540,O+,0,0,1,AA,No,Clear,A
+2541,O+,0,0,1,AC,No,Clear,A and C
+2542,B+,0,1,1,AA,No,Clear,A
+2543,A+,1,0,1,AA,No,Clear,A
+2544,O+,0,0,1,AA,No,Clear,A
+2545,O+,0,0,1,AA,No,Clear,A
+2546,O+,0,0,1,AA,No,Clear,A
+2547,O+,0,0,1,AS,Few,Cloudy,A and S
+2548,O+,0,0,1,AS,Few,Cloudy,A and S
+2549,O+,0,0,1,AA,No,Clear,A
+2550,O+,0,0,1,AS,Few,Cloudy,A and S
+2551,O+,0,0,1,AS,Few,Cloudy,A and S
+2552,O+,0,0,1,AA,No,Clear,A
+2553,A+,1,0,1,AS,Few,Cloudy,A and S
+2554,A+,1,0,1,AS,Few,Cloudy,A and S
+2555,O+,0,0,1,AS,Few,Cloudy,A and S
+2556,O+,0,0,1,AA,No,Clear,A
+2557,O+,0,0,1,AA,No,Clear,A
+2558,B-,0,1,0,AC,No,Clear,A and C
+2559,O+,0,0,1,AA,No,Clear,A
+2560,O+,0,0,1,AS,Few,Cloudy,A and S
+2561,O+,0,0,1,AA,No,Clear,A
+2562,A+,1,0,1,SS,Yes,Cloudy,S
+2563,O+,0,0,1,AA,No,Clear,A
+2564,B+,0,1,1,AA,No,Clear,A
+2565,O+,0,0,1,AS,Few,Cloudy,A and S
+2566,O+,0,0,1,AC,No,Clear,A and C
+2567,O+,0,0,1,AA,No,Clear,A
+2568,AB+,1,1,1,AS,Few,Cloudy,A and S
+2569,B+,0,1,1,AA,No,Clear,A
+2570,O+,0,0,1,AA,No,Clear,A
+2571,B+,0,1,1,AA,No,Clear,A
+2572,A+,1,0,1,AS,Few,Cloudy,A and S
+2573,A+,1,0,1,AA,No,Clear,A
+2574,B-,0,1,0,AA,No,Clear,A
+2575,O+,0,0,1,AA,No,Clear,A
+2576,O+,0,0,1,AA,No,Clear,A
+2577,AB+,1,1,1,AS,Few,Cloudy,A and S
+2578,B+,0,1,1,AA,No,Clear,A
+2579,A+,1,0,1,AA,No,Clear,A
+2580,A+,1,0,1,AA,No,Clear,A
+2581,O+,0,0,1,AS,Few,Cloudy,A and S
+2582,O+,0,0,1,AA,No,Clear,A
+2583,O+,0,0,1,AA,No,Clear,A
+2584,O+,0,0,1,AA,No,Clear,A
+2585,O+,0,0,1,AA,No,Clear,A
+2586,A+,1,0,1,AA,No,Clear,A
+2587,O+,0,0,1,AA,No,Clear,A
+2588,B+,0,1,1,AA,No,Clear,A
+2589,O+,0,0,1,AA,No,Clear,A
+2590,O+,0,0,1,AA,No,Clear,A
+2591,O+,0,0,1,AS,Few,Cloudy,A and S
+2592,O+,0,0,1,AS,Few,Cloudy,A and S
+2593,B-,0,1,0,AA,No,Clear,A
+2594,O+,0,0,1,AA,No,Clear,A
+2595,A+,1,0,1,AA,No,Clear,A
+2596,O+,0,0,1,AA,No,Clear,A
+2597,A+,1,0,1,AA,No,Clear,A
+2598,B+,0,1,1,AA,No,Clear,A
+2599,O+,0,0,1,AA,No,Clear,A
+2600,O+,0,0,1,AA,No,Clear,A
+2601,B-,0,1,0,AA,No,Clear,A
+2602,A+,1,0,1,AA,No,Clear,A
+2603,AB+,1,1,1,AA,No,Clear,A
+2604,B+,0,1,1,AA,No,Clear,A
+2605,B+,0,1,1,AA,No,Clear,A
+2606,B+,0,1,1,AA,No,Clear,A
+2607,O+,0,0,1,AA,No,Clear,A
+2608,A+,1,0,1,AA,No,Clear,A
+2609,O+,0,0,1,AA,No,Clear,A
+2610,A+,1,0,1,AA,No,Clear,A
+2611,O+,0,0,1,AA,No,Clear,A
+2612,B+,0,1,1,AS,Few,Cloudy,A and S
+2613,B+,0,1,1,AS,Few,Cloudy,A and S
+2614,O+,0,0,1,AC,No,Clear,A and C
+2615,O+,0,0,1,AA,No,Clear,A
+2616,A+,1,0,1,AA,No,Clear,A
+2617,A+,1,0,1,AA,No,Clear,A
+2618,B+,0,1,1,AA,No,Clear,A
+2619,B+,0,1,1,AC,No,Clear,A and C
+2620,O+,0,0,1,AA,No,Clear,A
+2621,B+,0,1,1,AS,Few,Cloudy,A and S
+2622,A+,1,0,1,AA,No,Clear,A
+2623,O+,0,0,1,AS,Few,Cloudy,A and S
+2624,A+,1,0,1,AA,No,Clear,A
+2625,B+,0,1,1,AA,No,Clear,A
+2626,O+,0,0,1,AA,No,Clear,A
+2627,A+,1,0,1,SC,Few,Cloudy,S and C
+2628,B+,0,1,1,AS,Few,Cloudy,A and S
+2629,B+,0,1,1,AS,Few,Cloudy,A and S
+2630,B+,0,1,1,AA,No,Clear,A
+2631,O+,0,0,1,AS,Few,Cloudy,A and S
+2632,O+,0,0,1,AS,Few,Cloudy,A and S
+2633,O+,0,0,1,AA,No,Clear,A
+2634,B+,0,1,1,AA,No,Clear,A
+2635,O+,0,0,1,AS,Few,Cloudy,A and S
+2636,O+,0,0,1,AA,No,Clear,A
+2637,O+,0,0,1,AA,No,Clear,A
+2638,O+,0,0,1,AA,No,Clear,A
+2639,AB+,1,1,1,AA,No,Clear,A
+2640,O+,0,0,1,AA,No,Clear,A
+2641,O+,0,0,1,AA,No,Clear,A
+2642,AB+,1,1,1,AA,No,Clear,A
+2643,AB+,1,1,1,AA,No,Clear,A
+2644,O+,0,0,1,AS,Few,Cloudy,A and S
+2645,O+,0,0,1,AA,No,Clear,A
+2646,O+,0,0,1,AA,No,Clear,A
+2647,O+,0,0,1,AA,No,Clear,A
+2648,A-,1,0,0,AC,No,Clear,A and C
+2649,O+,0,0,1,AA,No,Clear,A
+2650,O+,0,0,1,AA,No,Clear,A
+2651,B+,0,1,1,AA,No,Clear,A
+2652,O+,0,0,1,AA,No,Clear,A
+2653,AB+,1,1,1,AA,No,Clear,A
+2654,B+,0,1,1,AA,No,Clear,A
+2655,O+,0,0,1,AA,No,Clear,A
+2656,O+,0,0,1,AA,No,Clear,A
+2657,O+,0,0,1,AA,No,Clear,A
+2658,O+,0,0,1,AA,No,Clear,A
+2659,A+,1,0,1,AA,No,Clear,A
+2660,O+,0,0,1,AA,No,Clear,A
+2661,O+,0,0,1,AA,No,Clear,A
+2662,B+,0,1,1,AA,No,Clear,A
+2663,O-,0,0,0,AS,Few,Cloudy,A and S
+2664,O+,0,0,1,AA,No,Clear,A
+2665,B-,0,1,0,AA,No,Clear,A
+2666,A+,1,0,1,AA,No,Clear,A
+2667,O+,0,0,1,AS,Few,Cloudy,A and S
+2668,B+,0,1,1,AA,No,Clear,A
+2669,A+,1,0,1,AA,No,Clear,A
+2670,O+,0,0,1,AA,No,Clear,A
+2671,O+,0,0,1,AA,No,Clear,A
+2672,A+,1,0,1,AC,No,Clear,A and C
+2673,O+,0,0,1,AA,No,Clear,A
+2674,O+,0,0,1,AA,No,Clear,A
+2675,B+,0,1,1,AA,No,Clear,A
+2676,O+,0,0,1,AA,No,Clear,A
+2677,B+,0,1,1,AS,Few,Cloudy,A and S
+2678,O+,0,0,1,AA,No,Clear,A
+2679,O+,0,0,1,AA,No,Clear,A
+2680,O+,0,0,1,AA,No,Clear,A
+2681,O+,0,0,1,AA,No,Clear,A
+2682,O+,0,0,1,AA,No,Clear,A
+2683,A+,1,0,1,AA,No,Clear,A
+2684,B+,0,1,1,AA,No,Clear,A
+2685,O-,0,0,0,AS,Few,Cloudy,A and S
+2686,B+,0,1,1,AS,Few,Cloudy,A and S
+2687,O+,0,0,1,AA,No,Clear,A
+2688,O+,0,0,1,AS,Few,Cloudy,A and S
+2689,O+,0,0,1,AS,Few,Cloudy,A and S
+2690,A+,1,0,1,AA,No,Clear,A
+2691,B+,0,1,1,AA,No,Clear,A
+2692,O+,0,0,1,AA,No,Clear,A
+2693,O+,0,0,1,AA,No,Clear,A
+2694,O+,0,0,1,AS,Few,Cloudy,A and S
+2695,B+,0,1,1,AS,Few,Cloudy,A and S
+2696,A+,1,0,1,AA,No,Clear,A
+2697,A+,1,0,1,AA,No,Clear,A
+2698,O+,0,0,1,AS,Few,Cloudy,A and S
+2699,B+,0,1,1,AA,No,Clear,A
+2700,B+,0,1,1,AA,No,Clear,A
+2701,B+,0,1,1,AS,Few,Cloudy,A and S
+2702,O+,0,0,1,AA,No,Clear,A
+2703,O+,0,0,1,AA,No,Clear,A
+2704,O+,0,0,1,AS,Few,Cloudy,A and S
+2705,O+,0,0,1,AA,No,Clear,A
+2706,O+,0,0,1,AA,No,Clear,A
+2707,O+,0,0,1,AA,No,Clear,A
+2708,B+,0,1,1,AA,No,Clear,A
+2709,B-,0,1,0,AA,No,Clear,A
+2710,B+,0,1,1,AA,No,Clear,A
+2711,O+,0,0,1,AA,No,Clear,A
+2712,O+,0,0,1,AA,No,Clear,A
+2713,O+,0,0,1,AA,No,Clear,A
+2714,B+,0,1,1,AA,No,Clear,A
+2715,B+,0,1,1,AA,No,Clear,A
+2716,A+,1,0,1,AA,No,Clear,A
+2717,B+,0,1,1,AA,No,Clear,A
+2718,O+,0,0,1,AA,No,Clear,A
+2719,O+,0,0,1,AA,No,Clear,A
+2720,O+,0,0,1,AS,Few,Cloudy,A and S
+2721,O+,0,0,1,AA,No,Clear,A
+2722,O+,0,0,1,AA,No,Clear,A
+2723,B+,0,1,1,AA,No,Clear,A
+2724,O+,0,0,1,AA,No,Clear,A
+2725,O+,0,0,1,AA,No,Clear,A
+2726,B+,0,1,1,AS,Few,Cloudy,A and S
+2727,O+,0,0,1,AA,No,Clear,A
+2728,B+,0,1,1,AA,No,Clear,A
+2729,O+,0,0,1,AA,No,Clear,A
+2730,O+,0,0,1,AC,No,Clear,A and C
+2731,A+,1,0,1,AA,No,Clear,A
+2732,A+,1,0,1,AA,No,Clear,A
+2733,O+,0,0,1,AA,No,Clear,A
+2734,B+,0,1,1,AA,No,Clear,A
+2735,O+,0,0,1,AA,No,Clear,A
+2736,A-,1,0,0,AA,No,Clear,A
+2737,O+,0,0,1,AA,No,Clear,A
+2738,O+,0,0,1,AA,No,Clear,A
+2739,A+,1,0,1,AA,No,Clear,A
+2740,O+,0,0,1,AA,No,Clear,A
+2741,B+,0,1,1,AA,No,Clear,A
+2742,O+,0,0,1,AA,No,Clear,A
+2743,O+,0,0,1,AA,No,Clear,A
+2744,A+,1,0,1,AA,No,Clear,A
+2745,O+,0,0,1,AA,No,Clear,A
+2746,O+,0,0,1,AA,No,Clear,A
+2747,B+,0,1,1,AA,No,Clear,A
+2748,O+,0,0,1,AS,Few,Cloudy,A and S
+2749,O+,0,0,1,AA,No,Clear,A
+2750,A+,1,0,1,AA,No,Clear,A
+2751,B+,0,1,1,AA,No,Clear,A
+2752,O+,0,0,1,AA,No,Clear,A
+2753,B+,0,1,1,AA,No,Clear,A
+2754,B+,0,1,1,AA,No,Clear,A
+2755,A+,1,0,1,AA,No,Clear,A
+2756,O+,0,0,1,AA,No,Clear,A
+2757,B+,0,1,1,AA,No,Clear,A
+2758,O+,0,0,1,AS,Few,Cloudy,A and S
+2759,O+,0,0,1,AA,No,Clear,A
+2760,A+,1,0,1,AA,No,Clear,A
+2761,B+,0,1,1,AS,Few,Cloudy,A and S
+2762,AB+,1,1,1,AA,No,Clear,A
+2763,O-,0,0,0,AA,No,Clear,A
+2764,O+,0,0,1,AA,No,Clear,A
+2765,O+,0,0,1,AA,No,Clear,A
+2766,B+,0,1,1,AA,No,Clear,A
+2767,A+,1,0,1,AA,No,Clear,A
+2768,A+,1,0,1,AA,No,Clear,A
+2769,O+,0,0,1,AS,Few,Cloudy,A and S
+2770,B+,0,1,1,AA,No,Clear,A
+2771,B+,0,1,1,AS,Few,Cloudy,A and S
+2772,B+,0,1,1,AS,Few,Cloudy,A and S
+2773,O+,0,0,1,AA,No,Clear,A
+2774,B+,0,1,1,AS,Few,Cloudy,A and S
+2775,O+,0,0,1,AA,No,Clear,A
+2776,O+,0,0,1,AC,No,Clear,A and C
+2777,O+,0,0,1,AA,No,Clear,A
+2778,O+,0,0,1,AA,No,Clear,A
+2779,O+,0,0,1,AA,No,Clear,A
+2780,A+,1,0,1,AA,No,Clear,A
+2781,O+,0,0,1,AA,No,Clear,A
+2782,O+,0,0,1,AS,Few,Cloudy,A and S
+2783,B+,0,1,1,AA,No,Clear,A
+2784,A+,1,0,1,AS,Few,Cloudy,A and S
+2785,O+,0,0,1,AS,Few,Cloudy,A and S
+2786,O+,0,0,1,AA,No,Clear,A
+2787,B+,0,1,1,AS,Few,Cloudy,A and S
+2788,B+,0,1,1,AA,No,Clear,A
+2789,O+,0,0,1,AS,Few,Cloudy,A and S
+2790,O+,0,0,1,AA,No,Clear,A
+2791,B+,0,1,1,AS,Few,Cloudy,A and S
+2792,O+,0,0,1,AA,No,Clear,A
+2793,O+,0,0,1,AA,No,Clear,A
+2794,A+,1,0,1,AA,No,Clear,A
+2795,B+,0,1,1,AS,Few,Cloudy,A and S
+2796,O+,0,0,1,AA,No,Clear,A
+2797,O+,0,0,1,AA,No,Clear,A
+2798,O+,0,0,1,AS,Few,Cloudy,A and S
+2799,B+,0,1,1,AS,Few,Cloudy,A and S
+2800,O+,0,0,1,AA,No,Clear,A
+2801,O+,0,0,1,AS,Few,Cloudy,A and S
+2802,O+,0,0,1,AS,Few,Cloudy,A and S
+2803,A+,1,0,1,AA,No,Clear,A
+2804,O+,0,0,1,AA,No,Clear,A
+2805,O+,0,0,1,AA,No,Clear,A
+2806,O+,0,0,1,AA,No,Clear,A
+2807,O+,0,0,1,AS,Few,Cloudy,A and S
+2808,AB+,1,1,1,AS,Few,Cloudy,A and S
+2809,A+,1,0,1,SS,Yes,Cloudy,S
+2810,AB+,1,1,1,AS,Few,Cloudy,A and S
+2811,O+,0,0,1,AA,No,Clear,A
+2812,A+,1,0,1,AA,No,Clear,A
+2813,A+,1,0,1,AA,No,Clear,A
+2814,AB+,1,1,1,AA,No,Clear,A
+2815,O+,0,0,1,AA,No,Clear,A
+2816,O+,0,0,1,AA,No,Clear,A
+2817,A+,1,0,1,AA,No,Clear,A
+2818,A+,1,0,1,AA,No,Clear,A
+2819,O+,0,0,1,AA,No,Clear,A
+2820,A+,1,0,1,AS,Few,Cloudy,A and S
+2821,O+,0,0,1,AA,No,Clear,A
+2822,A+,1,0,1,AA,No,Clear,A
+2823,O+,0,0,1,AS,Few,Cloudy,A and S
+2824,O+,0,0,1,AS,Few,Cloudy,A and S
+2825,O-,0,0,0,AA,No,Clear,A
+2826,O+,0,0,1,AC,No,Clear,A and C
+2827,O+,0,0,1,AA,No,Clear,A
+2828,O+,0,0,1,AA,No,Clear,A
+2829,O-,0,0,0,AA,No,Clear,A
+2830,A+,1,0,1,AA,No,Clear,A
+2831,B+,0,1,1,AA,No,Clear,A
+2832,O+,0,0,1,AS,Few,Cloudy,A and S
+2833,B+,0,1,1,AA,No,Clear,A
+2834,O+,0,0,1,AA,No,Clear,A
+2835,A+,1,0,1,AS,Few,Cloudy,A and S
+2836,O+,0,0,1,AA,No,Clear,A
+2837,B+,0,1,1,AA,No,Clear,A
+2838,B+,0,1,1,AS,Few,Cloudy,A and S
+2839,O+,0,0,1,AA,No,Clear,A
+2840,O+,0,0,1,AA,No,Clear,A
+2841,O+,0,0,1,AA,No,Clear,A
+2842,A+,1,0,1,AA,No,Clear,A
+2843,B+,0,1,1,AA,No,Clear,A
+2844,O+,0,0,1,AA,No,Clear,A
+2845,O+,0,0,1,AS,Few,Cloudy,A and S
+2846,A+,1,0,1,AA,No,Clear,A
+2847,A+,1,0,1,AA,No,Clear,A
+2848,O+,0,0,1,AA,No,Clear,A
+2849,O+,0,0,1,AA,No,Clear,A
+2850,B+,0,1,1,AS,Few,Cloudy,A and S
+2851,B+,0,1,1,AA,No,Clear,A
+2852,O+,0,0,1,AA,No,Clear,A
+2853,A+,1,0,1,AA,No,Clear,A
+2854,O+,0,0,1,AA,No,Clear,A
+2855,O+,0,0,1,AA,No,Clear,A
+2856,O+,0,0,1,AS,Few,Cloudy,A and S
+2857,A+,1,0,1,AS,Few,Cloudy,A and S
+2858,O+,0,0,1,AA,No,Clear,A
+2859,O+,0,0,1,AS,Few,Cloudy,A and S
+2860,O+,0,0,1,AA,No,Clear,A
+2861,O+,0,0,1,AA,No,Clear,A
+2862,B+,0,1,1,AA,No,Clear,A
+2863,B+,0,1,1,AA,No,Clear,A
+2864,B+,0,1,1,AA,No,Clear,A
+2865,O+,0,0,1,AA,No,Clear,A
+2866,A+,1,0,1,AA,No,Clear,A
+2867,O+,0,0,1,AA,No,Clear,A
+2868,O+,0,0,1,AA,No,Clear,A
+2869,B+,0,1,1,AA,No,Clear,A
+2870,B+,0,1,1,AA,No,Clear,A
+2871,O+,0,0,1,AA,No,Clear,A
+2872,O-,0,0,0,AA,No,Clear,A
+2873,O+,0,0,1,AS,Few,Cloudy,A and S
+2874,O+,0,0,1,AS,Few,Cloudy,A and S
+2875,O+,0,0,1,AA,No,Clear,A
+2876,B+,0,1,1,AS,Few,Cloudy,A and S
+2877,A+,1,0,1,AA,No,Clear,A
+2878,B+,0,1,1,AA,No,Clear,A
+2879,O+,0,0,1,AA,No,Clear,A
+2880,O+,0,0,1,AA,No,Clear,A
+2881,O+,0,0,1,AA,No,Clear,A
+2882,O+,0,0,1,AA,No,Clear,A
+2883,AB+,1,1,1,AA,No,Clear,A
+2884,B+,0,1,1,AA,No,Clear,A
+2885,O+,0,0,1,AA,No,Clear,A
+2886,A+,1,0,1,AA,No,Clear,A
+2887,O+,0,0,1,AA,No,Clear,A
+2888,B+,0,1,1,AA,No,Clear,A
+2889,O+,0,0,1,AA,No,Clear,A
+2890,O+,0,0,1,AA,No,Clear,A
+2891,B-,0,1,0,AA,No,Clear,A
+2892,A+,1,0,1,AC,No,Clear,A and C
+2893,O+,0,0,1,AA,No,Clear,A
+2894,O+,0,0,1,AA,No,Clear,A
+2895,O+,0,0,1,AA,No,Clear,A
+2896,O+,0,0,1,AA,No,Clear,A
+2897,B+,0,1,1,AA,No,Clear,A
+2898,B+,0,1,1,AA,No,Clear,A
+2899,B+,0,1,1,AA,No,Clear,A
+2900,O+,0,0,1,AA,No,Clear,A
+2901,O+,0,0,1,AS,Few,Cloudy,A and S
+2902,O+,0,0,1,AA,No,Clear,A
+2903,O+,0,0,1,AS,Few,Cloudy,A and S
+2904,O+,0,0,1,AA,No,Clear,A
+2905,A+,1,0,1,AA,No,Clear,A
+2906,A+,1,0,1,AA,No,Clear,A
+2907,O+,0,0,1,AA,No,Clear,A
+2908,O+,0,0,1,AS,Few,Cloudy,A and S
+2909,B+,0,1,1,AA,No,Clear,A
+2910,B+,0,1,1,AS,Few,Cloudy,A and S
+2911,A+,1,0,1,AA,No,Clear,A
+2912,A-,1,0,0,AA,No,Clear,A
+2913,A+,1,0,1,AA,No,Clear,A
+2914,AB+,1,1,1,AA,No,Clear,A
+2915,O+,0,0,1,AA,No,Clear,A
+2916,O+,0,0,1,AA,No,Clear,A
+2917,A+,1,0,1,AA,No,Clear,A
+2918,A+,1,0,1,AA,No,Clear,A
+2919,B+,0,1,1,AS,Few,Cloudy,A and S
+2920,O-,0,0,0,AA,No,Clear,A
+2921,B+,0,1,1,AS,Few,Cloudy,A and S
+2922,O+,0,0,1,AA,No,Clear,A
+2923,B+,0,1,1,AA,No,Clear,A
+2924,O+,0,0,1,AA,No,Clear,A
+2925,O+,0,0,1,AA,No,Clear,A
+2926,A+,1,0,1,AC,No,Clear,A and C
+2927,O+,0,0,1,AA,No,Clear,A
+2928,A+,1,0,1,AA,No,Clear,A
+2929,A+,1,0,1,AS,Few,Cloudy,A and S
+2930,A+,1,0,1,AS,Few,Cloudy,A and S
+2931,A+,1,0,1,AS,Few,Cloudy,A and S
+2932,O+,0,0,1,AA,No,Clear,A
+2933,A+,1,0,1,AA,No,Clear,A
+2934,A+,1,0,1,AC,No,Clear,A and C
+2935,B+,0,1,1,AA,No,Clear,A
+2936,O-,0,0,0,AA,No,Clear,A
+2937,O+,0,0,1,AA,No,Clear,A
+2938,B+,0,1,1,AS,Few,Cloudy,A and S
+2939,A+,1,0,1,AA,No,Clear,A
+2940,B+,0,1,1,AA,No,Clear,A
+2941,O+,0,0,1,AS,Few,Cloudy,A and S
+2942,O+,0,0,1,AA,No,Clear,A
+2943,O+,0,0,1,AA,No,Clear,A
+2944,B+,0,1,1,AS,Few,Cloudy,A and S
+2945,O+,0,0,1,AS,Few,Cloudy,A and S
+2946,O+,0,0,1,AA,No,Clear,A
+2947,O+,0,0,1,AS,Few,Cloudy,A and S
+2948,O-,0,0,0,AA,No,Clear,A
+2949,A+,1,0,1,AA,No,Clear,A
+2950,A+,1,0,1,AS,Few,Cloudy,A and S
+2951,A+,1,0,1,AC,No,Clear,A and C
+2952,O+,0,0,1,AA,No,Clear,A
+2953,O+,0,0,1,AA,No,Clear,A
+2954,O-,0,0,0,AA,No,Clear,A
+2955,O+,0,0,1,AA,No,Clear,A
+2956,O+,0,0,1,AA,No,Clear,A
+2957,O+,0,0,1,AA,No,Clear,A
+2958,O+,0,0,1,AA,No,Clear,A
+2959,O+,0,0,1,AA,No,Clear,A
+2960,A+,1,0,1,AA,No,Clear,A
+2961,B+,0,1,1,AA,No,Clear,A
+2962,O+,0,0,1,AA,No,Clear,A
+2963,O+,0,0,1,AS,Few,Cloudy,A and S
+2964,O+,0,0,1,AC,No,Clear,A and C
+2965,O+,0,0,1,AA,No,Clear,A
+2966,O+,0,0,1,AA,No,Clear,A
+2967,O+,0,0,1,AA,No,Clear,A
+2968,O+,0,0,1,AA,No,Clear,A
+2969,O+,0,0,1,AA,No,Clear,A
+2970,O+,0,0,1,AS,Few,Cloudy,A and S
+2971,O-,0,0,0,AS,Few,Cloudy,A and S
+2972,O+,0,0,1,AA,No,Clear,A
+2973,O+,0,0,1,AA,No,Clear,A
+2974,O+,0,0,1,AA,No,Clear,A
+2975,A+,1,0,1,AA,No,Clear,A
+2976,B+,0,1,1,AA,No,Clear,A
+2977,O+,0,0,1,AA,No,Clear,A
+2978,A+,1,0,1,AA,No,Clear,A
+2979,A+,1,0,1,AS,Few,Cloudy,A and S
+2980,O-,0,0,0,AS,Few,Cloudy,A and S
+2981,A+,1,0,1,AA,No,Clear,A
+2982,O-,0,0,0,AS,Few,Cloudy,A and S
+2983,A+,1,0,1,AC,No,Clear,A and C
+2984,A+,1,0,1,AA,No,Clear,A
+2985,O+,0,0,1,AA,No,Clear,A
+2986,A+,1,0,1,AA,No,Clear,A
+2987,B+,0,1,1,AA,No,Clear,A
+2988,B+,0,1,1,AA,No,Clear,A
+2989,A+,1,0,1,AA,No,Clear,A
+2990,A+,1,0,1,AA,No,Clear,A
+2991,B+,0,1,1,AA,No,Clear,A
+2992,O+,0,0,1,AA,No,Clear,A
+2993,A+,1,0,1,AA,No,Clear,A
+2994,O+,0,0,1,AA,No,Clear,A
+2995,A+,1,0,1,AA,No,Clear,A
+2996,A+,1,0,1,AA,No,Clear,A
+2997,A+,1,0,1,AA,No,Clear,A
+2998,B+,0,1,1,AA,No,Clear,A
+2999,O+,0,0,1,AA,No,Clear,A
+3000,O+,0,0,1,AA,No,Clear,A
+3001,O+,0,0,1,AA,No,Clear,A
+3002,O+,0,0,1,AA,No,Clear,A
+3003,A+,1,0,1,AS,Few,Cloudy,A and S
+3004,O+,0,0,1,AA,No,Clear,A
+3005,O+,0,0,1,AA,No,Clear,A
+3006,B+,0,1,1,AA,No,Clear,A
+3007,B+,0,1,1,AA,No,Clear,A
+3008,O+,0,0,1,AA,No,Clear,A
+3009,O+,0,0,1,AS,Few,Cloudy,A and S
+3010,O+,0,0,1,AS,Few,Cloudy,A and S
+3011,O+,0,0,1,AA,No,Clear,A
+3012,O-,0,0,0,AA,No,Clear,A
+3013,B+,0,1,1,AS,Few,Cloudy,A and S
+3014,A-,1,0,0,AA,No,Clear,A
+3015,A+,1,0,1,AA,No,Clear,A
+3016,B+,0,1,1,AS,Few,Cloudy,A and S
+3017,O-,0,0,0,AA,No,Clear,A
+3018,O-,0,0,0,AA,No,Clear,A
+3019,O+,0,0,1,AA,No,Clear,A
+3020,A+,1,0,1,AA,No,Clear,A
+3021,O+,0,0,1,AA,No,Clear,A
+3022,A+,1,0,1,AA,No,Clear,A
+3023,O+,0,0,1,AS,Few,Cloudy,A and S
+3024,O+,0,0,1,AA,No,Clear,A
+3025,A-,1,0,0,AA,No,Clear,A
+3026,O-,0,0,0,AA,No,Clear,A
+3027,O+,0,0,1,AA,No,Clear,A
+3028,O+,0,0,1,AA,No,Clear,A
+3029,A+,1,0,1,AA,No,Clear,A
+3030,A+,1,0,1,AA,No,Clear,A
+3031,AB+,1,1,1,AA,No,Clear,A
+3032,O+,0,0,1,AA,No,Clear,A
+3033,O+,0,0,1,AA,No,Clear,A
+3034,AB+,1,1,1,AS,Few,Cloudy,A and S
+3035,AB+,1,1,1,AS,Few,Cloudy,A and S
+3036,O+,0,0,1,AA,No,Clear,A
+3037,B+,0,1,1,AA,No,Clear,A
+3038,B+,0,1,1,AA,No,Clear,A
+3039,O+,0,0,1,AA,No,Clear,A
+3040,B+,0,1,1,AA,No,Clear,A
+3041,O+,0,0,1,AA,No,Clear,A
+3042,B+,0,1,1,AA,No,Clear,A
+3043,O-,0,0,0,AA,No,Clear,A
+3044,B+,0,1,1,AA,No,Clear,A
+3045,O+,0,0,1,AA,No,Clear,A
+3046,B+,0,1,1,AA,No,Clear,A
+3047,B+,0,1,1,AA,No,Clear,A
+3048,O+,0,0,1,AA,No,Clear,A
+3049,A+,1,0,1,AA,No,Clear,A
+3050,O+,0,0,1,AS,Few,Cloudy,A and S
+3051,O+,0,0,1,AA,No,Clear,A
+3052,B+,0,1,1,AA,No,Clear,A
+3053,O+,0,0,1,AA,No,Clear,A
+3054,A+,1,0,1,AA,No,Clear,A
+3055,B+,0,1,1,AA,No,Clear,A
+3056,O+,0,0,1,AA,No,Clear,A
+3057,O+,0,0,1,AA,No,Clear,A
+3058,O+,0,0,1,AA,No,Clear,A
+3059,O+,0,0,1,AA,No,Clear,A
+3060,O+,0,0,1,AA,No,Clear,A
+3061,O+,0,0,1,AA,No,Clear,A
+3062,O+,0,0,1,AA,No,Clear,A
+3063,O+,0,0,1,AA,No,Clear,A
+3064,A+,1,0,1,AA,No,Clear,A
+3065,O+,0,0,1,AA,No,Clear,A
+3066,AB+,1,1,1,AA,No,Clear,A
+3067,O+,0,0,1,AA,No,Clear,A
+3068,A+,1,0,1,AA,No,Clear,A
+3069,A+,1,0,1,AA,No,Clear,A
+3070,A+,1,0,1,AS,Few,Cloudy,A and S
+3071,O-,0,0,0,AS,Few,Cloudy,A and S
+3072,A+,1,0,1,AA,No,Clear,A
+3073,AB+,1,1,1,AC,No,Clear,A and C
+3074,O-,0,0,0,AA,No,Clear,A
+3075,O+,0,0,1,AA,No,Clear,A
+3076,O+,0,0,1,AA,No,Clear,A
+3077,O+,0,0,1,AS,Few,Cloudy,A and S
+3078,O+,0,0,1,AA,No,Clear,A
+3079,B+,0,1,1,AA,No,Clear,A
+3080,A+,1,0,1,AA,No,Clear,A
+3081,O-,0,0,0,AA,No,Clear,A
+3082,A+,1,0,1,AA,No,Clear,A
+3083,O+,0,0,1,AA,No,Clear,A
+3084,A+,1,0,1,AS,Few,Cloudy,A and S
+3085,O+,0,0,1,AA,No,Clear,A
+3086,B+,0,1,1,AA,No,Clear,A
+3087,A+,1,0,1,AA,No,Clear,A
+3088,A+,1,0,1,AS,Few,Cloudy,A and S
+3089,A+,1,0,1,AS,Few,Cloudy,A and S
+3090,O+,0,0,1,AS,Few,Cloudy,A and S
+3091,B+,0,1,1,AA,No,Clear,A
+3092,A+,1,0,1,AA,No,Clear,A
+3093,O+,0,0,1,AA,No,Clear,A
+3094,O+,0,0,1,AA,No,Clear,A
+3095,O+,0,0,1,AS,Few,Cloudy,A and S
+3096,A+,1,0,1,AS,Few,Cloudy,A and S
+3097,A+,1,0,1,AS,Few,Cloudy,A and S
+3098,O+,0,0,1,AS,Few,Cloudy,A and S
+3099,O+,0,0,1,AA,No,Clear,A
+3100,A+,1,0,1,AC,No,Clear,A and C
+3101,A+,1,0,1,AA,No,Clear,A
+3102,A+,1,0,1,AS,Few,Cloudy,A and S
+3103,A+,1,0,1,AA,No,Clear,A
+3104,O+,0,0,1,AS,Few,Cloudy,A and S
+3105,A+,1,0,1,AA,No,Clear,A
+3106,O+,0,0,1,SS,Yes,Cloudy,S
+3107,O+,0,0,1,AS,Few,Cloudy,A and S
+3108,O+,0,0,1,AA,No,Clear,A
+3109,A+,1,0,1,AS,Few,Cloudy,A and S
+3110,A+,1,0,1,AS,Few,Cloudy,A and S
+3111,B+,0,1,1,AS,Few,Cloudy,A and S
+3112,O+,0,0,1,AA,No,Clear,A
+3113,A+,1,0,1,AA,No,Clear,A
+3114,AB+,1,1,1,AS,Few,Cloudy,A and S
+3115,O+,0,0,1,AA,No,Clear,A
+3116,O+,0,0,1,AA,No,Clear,A
+3117,B+,0,1,1,AS,Few,Cloudy,A and S
+3118,B+,0,1,1,AA,No,Clear,A
+3119,B+,0,1,1,AA,No,Clear,A
+3120,O+,0,0,1,AA,No,Clear,A
+3121,O+,0,0,1,AA,No,Clear,A
+3122,B+,0,1,1,AS,Few,Cloudy,A and S
+3123,O+,0,0,1,AA,No,Clear,A
+3124,B+,0,1,1,AS,Few,Cloudy,A and S
+3125,O+,0,0,1,AA,No,Clear,A
+3126,O+,0,0,1,AA,No,Clear,A
+3127,B+,0,1,1,AA,No,Clear,A
+3128,O-,0,0,0,AA,No,Clear,A
+3129,A+,1,0,1,AA,No,Clear,A
+3130,B+,0,1,1,AA,No,Clear,A
+3131,O+,0,0,1,AA,No,Clear,A
+3132,O+,0,0,1,AA,No,Clear,A
+3133,O+,0,0,1,AA,No,Clear,A
+3134,A+,1,0,1,AA,No,Clear,A
+3135,O+,0,0,1,AA,No,Clear,A
+3136,O+,0,0,1,AC,No,Clear,A and C
+3137,O+,0,0,1,AA,No,Clear,A
+3138,A+,1,0,1,AA,No,Clear,A
+3139,A+,1,0,1,AS,Few,Cloudy,A and S
+3140,A+,1,0,1,AS,Few,Cloudy,A and S
+3141,O+,0,0,1,AS,Few,Cloudy,A and S
+3142,B+,0,1,1,AS,Few,Cloudy,A and S
+3143,B+,0,1,1,AA,No,Clear,A
+3144,O+,0,0,1,AA,No,Clear,A
+3145,B+,0,1,1,AA,No,Clear,A
+3146,O+,0,0,1,AA,No,Clear,A
+3147,O+,0,0,1,AS,Few,Cloudy,A and S
+3148,B+,0,1,1,AA,No,Clear,A
+3149,AB+,1,1,1,AA,No,Clear,A
+3150,B+,0,1,1,AS,Few,Cloudy,A and S
+3151,O+,0,0,1,AA,No,Clear,A
+3152,B+,0,1,1,AA,No,Clear,A
+3153,O+,0,0,1,AA,No,Clear,A
+3154,A+,1,0,1,AA,No,Clear,A
+3155,O+,0,0,1,AA,No,Clear,A
+3156,O+,0,0,1,AA,No,Clear,A
+3157,O+,0,0,1,AA,No,Clear,A
+3158,O+,0,0,1,AC,No,Clear,A and C
+3159,B-,0,1,0,AA,No,Clear,A
+3160,O+,0,0,1,AA,No,Clear,A
+3161,A+,1,0,1,AA,No,Clear,A
+3162,O+,0,0,1,AA,No,Clear,A
+3163,B+,0,1,1,AA,No,Clear,A
+3164,O+,0,0,1,AC,No,Clear,A and C
+3165,O+,0,0,1,AA,No,Clear,A
+3166,A+,1,0,1,AA,No,Clear,A
+3167,O+,0,0,1,AA,No,Clear,A
+3168,B+,0,1,1,AS,Few,Cloudy,A and S
+3169,A+,1,0,1,AA,No,Clear,A
+3170,A-,1,0,0,AA,No,Clear,A
+3171,O+,0,0,1,AA,No,Clear,A
+3172,O+,0,0,1,AA,No,Clear,A
+3173,O+,0,0,1,AA,No,Clear,A
+3174,O+,0,0,1,AA,No,Clear,A
+3175,O+,0,0,1,AA,No,Clear,A
+3176,O+,0,0,1,AA,No,Clear,A
+3177,O+,0,0,1,AA,No,Clear,A
+3178,A-,1,0,0,AA,No,Clear,A
+3179,O+,0,0,1,AA,No,Clear,A
+3180,O+,0,0,1,AA,No,Clear,A
+3181,O-,0,0,0,AA,No,Clear,A
+3182,O+,0,0,1,SS,Yes,Cloudy,S
+3183,O+,0,0,1,AA,No,Clear,A
+3184,O+,0,0,1,AS,Few,Cloudy,A and S
+3185,O+,0,0,1,AA,No,Clear,A
+3186,O+,0,0,1,AA,No,Clear,A
+3187,B+,0,1,1,AS,Few,Cloudy,A and S
+3188,A+,1,0,1,AA,No,Clear,A
+3189,O+,0,0,1,AC,No,Clear,A and C
+3190,O+,0,0,1,AA,No,Clear,A
+3191,O+,0,0,1,AA,No,Clear,A
+3192,B+,0,1,1,AA,No,Clear,A
+3193,B-,0,1,0,AA,No,Clear,A
+3194,O+,0,0,1,AA,No,Clear,A
+3195,O+,0,0,1,AA,No,Clear,A
+3196,B+,0,1,1,AA,No,Clear,A
+3197,O+,0,0,1,AA,No,Clear,A
+3198,O+,0,0,1,AS,Few,Cloudy,A and S
+3199,O+,0,0,1,AA,No,Clear,A
+3200,O+,0,0,1,AS,Few,Cloudy,A and S
+3201,O+,0,0,1,AA,No,Clear,A
+3202,O+,0,0,1,AA,No,Clear,A
+3203,B-,0,1,0,AA,No,Clear,A
+3204,A+,1,0,1,AA,No,Clear,A
+3205,O+,0,0,1,AA,No,Clear,A
+3206,B+,0,1,1,AA,No,Clear,A
+3207,O+,0,0,1,AA,No,Clear,A
+3208,B+,0,1,1,AS,Few,Cloudy,A and S
+3209,O+,0,0,1,CC,No,Clear,C
+3210,A+,1,0,1,AA,No,Clear,A
+3211,O+,0,0,1,AA,No,Clear,A
+3212,O+,0,0,1,AA,No,Clear,A
+3213,O+,0,0,1,AC,No,Clear,A and C
+3214,O+,0,0,1,AA,No,Clear,A
+3215,O+,0,0,1,AS,Few,Cloudy,A and S
+3216,O+,0,0,1,AA,No,Clear,A
+3217,O+,0,0,1,AA,No,Clear,A
+3218,O+,0,0,1,AS,Few,Cloudy,A and S
+3219,O+,0,0,1,AA,No,Clear,A
+3220,O+,0,0,1,AA,No,Clear,A
+3221,O+,0,0,1,AA,No,Clear,A
+3222,O+,0,0,1,AA,No,Clear,A
+3223,O+,0,0,1,AA,No,Clear,A
+3224,A+,1,0,1,AA,No,Clear,A
+3225,O+,0,0,1,AA,No,Clear,A
+3226,A+,1,0,1,AA,No,Clear,A
+3227,A+,1,0,1,AA,No,Clear,A
+3228,O-,0,0,0,AS,Few,Cloudy,A and S
+3229,O+,0,0,1,AA,No,Clear,A
+3230,O+,0,0,1,AS,Few,Cloudy,A and S
+3231,A+,1,0,1,AA,No,Clear,A
+3232,O+,0,0,1,AA,No,Clear,A
+3233,A+,1,0,1,AA,No,Clear,A
+3234,B+,0,1,1,AA,No,Clear,A
+3235,O+,0,0,1,AS,Few,Cloudy,A and S
+3236,O+,0,0,1,AC,No,Clear,A and C
+3237,O+,0,0,1,AA,No,Clear,A
+3238,O+,0,0,1,AA,No,Clear,A
+3239,O+,0,0,1,AA,No,Clear,A
+3240,A+,1,0,1,AA,No,Clear,A
+3241,O+,0,0,1,AA,No,Clear,A
+3242,A+,1,0,1,AA,No,Clear,A
+3243,O+,0,0,1,AA,No,Clear,A
+3244,AB+,1,1,1,AA,No,Clear,A
+3245,B+,0,1,1,AA,No,Clear,A
+3246,A+,1,0,1,AA,No,Clear,A
+3247,A+,1,0,1,AA,No,Clear,A
+3248,O-,0,0,0,AA,No,Clear,A
+3249,A+,1,0,1,AA,No,Clear,A
+3250,O+,0,0,1,AA,No,Clear,A
+3251,O+,0,0,1,AA,No,Clear,A
+3252,AB+,1,1,1,AS,Few,Cloudy,A and S
+3253,B+,0,1,1,AA,No,Clear,A
+3254,O+,0,0,1,AA,No,Clear,A
+3255,A+,1,0,1,AA,No,Clear,A
+3256,AB+,1,1,1,AA,No,Clear,A
+3257,A+,1,0,1,AA,No,Clear,A
+3258,B+,0,1,1,AA,No,Clear,A
+3259,O+,0,0,1,AA,No,Clear,A
+3260,O+,0,0,1,AA,No,Clear,A
+3261,B+,0,1,1,AA,No,Clear,A
+3262,B+,0,1,1,AA,No,Clear,A
+3263,B+,0,1,1,AS,Few,Cloudy,A and S
+3264,A+,1,0,1,AA,No,Clear,A
+3265,A+,1,0,1,AS,Few,Cloudy,A and S
+3266,A+,1,0,1,AA,No,Clear,A
+3267,B+,0,1,1,AA,No,Clear,A
+3268,A+,1,0,1,AC,No,Clear,A and C
+3269,O+,0,0,1,AA,No,Clear,A
+3270,B+,0,1,1,AA,No,Clear,A
+3271,O-,0,0,0,AS,Few,Cloudy,A and S
+3272,A+,1,0,1,AA,No,Clear,A
+3273,O+,0,0,1,SC,Few,Cloudy,S and C
+3274,A-,1,0,0,AA,No,Clear,A
+3275,B+,0,1,1,AA,No,Clear,A
+3276,O+,0,0,1,SS,Yes,Cloudy,S
+3277,O+,0,0,1,AA,No,Clear,A
+3278,O+,0,0,1,AA,No,Clear,A
+3279,A+,1,0,1,AA,No,Clear,A
+3280,A+,1,0,1,AA,No,Clear,A
+3281,O+,0,0,1,AS,Few,Cloudy,A and S
+3282,A+,1,0,1,AS,Few,Cloudy,A and S
+3283,O+,0,0,1,AA,No,Clear,A
+3284,B+,0,1,1,AA,No,Clear,A
+3285,O+,0,0,1,AC,No,Clear,A and C
+3286,O+,0,0,1,AA,No,Clear,A
+3287,B+,0,1,1,AS,Few,Cloudy,A and S
+3288,O+,0,0,1,AS,Few,Cloudy,A and S
+3289,B+,0,1,1,AS,Few,Cloudy,A and S
+3290,O+,0,0,1,AS,Few,Cloudy,A and S
+3291,AB-,1,1,0,AS,Few,Cloudy,A and S
+3292,O+,0,0,1,AA,No,Clear,A
+3293,O+,0,0,1,AA,No,Clear,A
+3294,O+,0,0,1,AA,No,Clear,A
+3295,O+,0,0,1,AA,No,Clear,A
+3296,O+,0,0,1,AA,No,Clear,A
+3297,O+,0,0,1,AA,No,Clear,A
+3298,O+,0,0,1,AS,Few,Cloudy,A and S
+3299,A+,1,0,1,AA,No,Clear,A
+3300,O+,0,0,1,AA,No,Clear,A
+3301,B+,0,1,1,AS,Few,Cloudy,A and S
+3302,B+,0,1,1,AA,No,Clear,A
+3303,A-,1,0,0,AA,No,Clear,A
+3304,O+,0,0,1,AA,No,Clear,A
+3305,O+,0,0,1,AA,No,Clear,A
+3306,B+,0,1,1,AA,No,Clear,A
+3307,O+,0,0,1,AA,No,Clear,A
+3308,B+,0,1,1,AA,No,Clear,A
+3309,O+,0,0,1,AA,No,Clear,A
+3310,B+,0,1,1,AA,No,Clear,A
+3311,B+,0,1,1,AA,No,Clear,A
+3312,O+,0,0,1,AS,Few,Cloudy,A and S
+3313,O+,0,0,1,AA,No,Clear,A
+3314,B+,0,1,1,AA,No,Clear,A
+3315,O-,0,0,0,AC,No,Clear,A and C
+3316,B+,0,1,1,AA,No,Clear,A
+3317,O+,0,0,1,AA,No,Clear,A
+3318,O+,0,0,1,AC,No,Clear,A and C
+3319,B+,0,1,1,AA,No,Clear,A
+3320,B+,0,1,1,AA,No,Clear,A
+3321,B+,0,1,1,AA,No,Clear,A

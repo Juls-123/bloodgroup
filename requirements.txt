@@ -1,0 +1,26 @@
+# Python Package Requirements
+# Blood Group & Genotype Prediction System
+# ===========================================
+
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Excel file support
+openpyxl>=3.0.0
+
+# Optional: For Jupyter Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For web deployment
+streamlit>=1.28.0
+plotly>=5.14.0
+reportlab>=4.0.0
